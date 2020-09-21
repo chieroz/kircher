@@ -1,5 +1,5 @@
 DefaultContentLanguage: it
-baseURL: "/"
+baseURL: "kircher.vercel.app/"
 defaultContentLanguage: it
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
@@ -27,11 +27,11 @@ outputs:
 
 params:
   disableReadmoreNav: true
-  disableSearch: false
+  disableSearch: true
   highlightClientSide: false
   menushortcutsnewtab: true
   ordersectionsby: weight
 pygmentsCodeFences: true
 pygmentsStyle: monokailight
 theme: ace-documentation
-title: Kircher
+title: Athanasius Kircher
