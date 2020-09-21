@@ -20,7 +20,7 @@ Chiude il libro un'ampia __Appendice__, elemento essenziale di tutto il lavoro: 
 
 <div class="alert alert-info">
 
-#### 1.2 Nota sulle abbreviazioni
+## 1.2 Nota sulle abbreviazioni
 
 Nel corso di questo studio le citazioni e i richiami al testo della _Musurgia Universalis_ sono assai frequenti: per evitare continui rimandi in nota che appesantirebbero la lettura costringendo a un continuo andirivieni mi è sembrato utile l'uso di un semplice sistema di abbreviazioni per inserire direttamente nel testo il riferimento _ad paginam_. Le necessarie precisazioni bibliografiche sulla _Musurgia Universalis_ sono contenute nella sezione <a href="libro_12.html#Heading87">12.1</a>.
 
