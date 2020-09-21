@@ -1,5 +1,5 @@
 DefaultContentLanguage: it
-baseURL: "kircher.chierotti.it/"
+baseURL: "/"
 defaultContentLanguage: it
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
