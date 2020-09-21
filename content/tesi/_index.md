@@ -1,9 +1,11 @@
 ---
-title: "Doverosa premessa"
+title: "Tesi"
 date: 2020-09-21T14:29:50+02:00
 author: "Chieroz"
 slug: "Premessa"
 ---
+
+## Doverosa premessa
 
 Sono trascorsi molti anni da quando ho completato e discusso con ottimi risultati la mia tesi di laurea sulla _Musurgia Universalis_ di Athanasius Kircher.
 
