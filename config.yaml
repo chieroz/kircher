@@ -1,0 +1,37 @@
+DefaultContentLanguage: it
+baseURL: https://kircher.chierotti.it
+defaultContentLanguage: it
+defaultContentLanguageInSubdir: false
+enableMissingTranslationPlaceholders: false
+googleAnalytics: ""
+languageCode: it_it
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  shortcuts:
+    - name: chierotti.it
+      url: https://chierotti.it
+      weight: 1
+    - name: <i class='fab fa-github'></i>
+      url: https://github.com/chieroz/kircher
+      weight: 2
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  disableReadmoreNav: true
+  disableSearch: false
+  highlightClientSide: false
+  menushortcutsnewtab: true
+  ordersectionsby: weight
+pygmentsCodeFences: true
+pygmentsStyle: monokailight
+theme: ace-documentation
+title: Kircher
