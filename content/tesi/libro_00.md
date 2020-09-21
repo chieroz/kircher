@@ -8,7 +8,6 @@ slug: "00"
 
 ## Pars I. Musurgia Combinatoria
 
-
 - __LEMMA I__
 - __LEMMA II__
 - __Caput I. De Notarum Combinationibus__
