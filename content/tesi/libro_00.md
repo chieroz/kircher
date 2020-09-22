@@ -12,21 +12,21 @@ slug: "00"
 - __LEMMA II__
 - __Caput I. De Notarum Combinationibus__
 
-    - <em>Problema I Combinatorium.</em><br>Data voce quotcumque notarum, quoties illa intra certum intervallum mutari possit, invenire.
-    - <em>Problema II Combinatorium.</em><br>Data voce quotcumque notarum, quarum quotlibet notae super eadem chordam existant, combinationem propositae vocis invenire.
-    - <em>Problema III Combinatorium.</em><br>Data voce quotcumque notarum, & inter eas quotlibet binarijs, ternarijs, quaternarijsve notarum super eandem, aut diversas chordas existentibus, mutationes vocis invenire.
-    - <em>Problema IV Combinatorium.</em><br>Data voce quotcumque notarum, quarum duae eandem in una chorda sint, tres vero eadem in alia chorda; combinationem, id est numerum mutationis vocum reperire.
-    - <em>Problema V Universale.</em><br>Datis in voce quapiam quotlibet notis sive differentibus, sive non differentibus, quoties quilibet alius ex assumpto & determinato hoc numero, notarum numerus mutari possit.
-    - <em>Problema VI Combinatorium Universalissimum.</em><br>Datis quotlibet notis, quot mutationes fieri possint de quotlibet notarum numero ex iis assumpto sive eae notae differentes sint, sive eadem, aut similes, sive similes & differentes.
+    - _Problema I Combinatorium._<br>Data voce quotcumque notarum, quoties illa intra certum intervallum mutari possit, invenire.
+    - _Problema II Combinatorium._<br>Data voce quotcumque notarum, quarum quotlibet notae super eadem chordam existant, combinationem propositae vocis invenire.
+    - _Problema III Combinatorium._<br>Data voce quotcumque notarum, & inter eas quotlibet binarijs, ternarijs, quaternarijsve notarum super eandem, aut diversas chordas existentibus, mutationes vocis invenire.
+    - _Problema IV Combinatorium._<br>Data voce quotcumque notarum, quarum duae eandem in una chorda sint, tres vero eadem in alia chorda; combinationem, id est numerum mutationis vocum reperire.
+    - _Problema V Universale._<br>Datis in voce quapiam quotlibet notis sive differentibus, sive non differentibus, quoties quilibet alius ex assumpto & determinato hoc numero, notarum numerus mutari possit.
+    - _Problema VI Combinatorium Universalissimum._<br>Datis quotlibet notis, quot mutationes fieri possint de quotlibet notarum numero ex iis assumpto sive eae notae differentes sint, sive eadem, aut similes, sive similes & differentes.
     - __Caput II. De combinatione valoris notarum__
 
-    - <em>Problema I.</em><br>Data voce quotcumque notarum quae omnes differentis valoris sint, quoties illae notae differentis valoris inter se mutari possint, invenire.
-    - <em>Problema II.</em><br>Data voce quotlibet notarum cum situ tum valore dìfferentium quoties vox data sub hac duplici varietate mutari possit, invenire.
-    - <em>Problema III.</em><br>In Polyphonijs. sive multarum vocum melodiis, quotvis notarum, quae tamen situ & valore aequales sint, mutationes vocum eo ordine crescunt, quo in numeris potestates algebricae.
-    - <em>Problema IV.</em><br>Datis Quotlibet Vocum notis situ inaequalibus, valore aequalibus, combinationes earundem reperire.
-    - <em>Problema V.</em><br>Datis 4 Vocibus quarum prima 4 notis constat, secunda tribus, tertia 4, sed 2 simililus, quarta 5 notis constet, valore differentibus, mutationes omnium vocum reperire.
-    - <em>Problema VI.</em><br>Datis speciebus consonantiarum diatessaron, diapente & diapason, earum mutationes reperire.
-    - <em>Corollaria.</em><br>De mutationibus ex 12 diversis modis sive Tonis resultantibus.
+    - _Problema I._<br>Data voce quotcumque notarum quae omnes differentis valoris sint, quoties illae notae differentis valoris inter se mutari possint, invenire.
+    - _Problema II._<br>Data voce quotlibet notarum cum situ tum valore dìfferentium quoties vox data sub hac duplici varietate mutari possit, invenire.
+    - _Problema III._<br>In Polyphonijs. sive multarum vocum melodiis, quotvis notarum, quae tamen situ & valore aequales sint, mutationes vocum eo ordine crescunt, quo in numeris potestates algebricae.
+    - _Problema IV._<br>Datis Quotlibet Vocum notis situ inaequalibus, valore aequalibus, combinationes earundem reperire.
+    - _Problema V._<br>Datis 4 Vocibus quarum prima 4 notis constat, secunda tribus, tertia 4, sed 2 simililus, quarta 5 notis constet, valore differentibus, mutationes omnium vocum reperire.
+    - _Problema VI._<br>Datis speciebus consonantiarum diatessaron, diapente & diapason, earum mutationes reperire.
+    - _Corollaria._<br>De mutationibus ex 12 diversis modis sive Tonis resultantibus.
 
 
 ## Pars II. Musurgia Rhythmica sive Poetica
@@ -71,12 +71,12 @@ slug: "00"
 
     - De Characterismis pentagrammorum sive de modo signationis vocum in palimpsesto phonotactico
     - De Musarithmis eorumque ordinatione
-    - De signis <em>bb</em> & <em>X</em> intra columnas Tonorum occurentibus
+    - De signis _bb_ & _X_ intra columnas Tonorum occurentibus
     - De Tonorum electione
     - De illicitis intervallis evitandis
     - De mutatione Tonorum in una & eadem cantilena sive de mistura Tonorum
     - De vitandis prohibitis intervallis
-    - De positione signorum chromaticorum <em>bb</em> & <em>X</em>
+    - De positione signorum chromaticorum _bb_ & _X_
     - De Multiplicatione Musarithmorum
     - De Verborum ad notas accomodatione
 
@@ -91,8 +91,8 @@ slug: "00"
     - Dato Hendecasyllabo tristropho petitam supra id harmoniam conficere
     - Dato carmine Sapphico tristropho dicolo illud in harmoniam animare
     - Dato quolibet stropharum Asclepiadaeo super id harmoniam petitam conficere
-    - <em>Regulae in Musurgiam Poeticam</em>
-    - <em>APPENDIX In Musurgiam Poeticam sive Rhytmicam</em>
+    - _Regulae in Musurgiam Poeticam_
+    - _APPENDIX In Musurgiam Poeticam sive Rhytmicam_
 
 - __Caput VI. Syntagmatis II explicatio sive Musurgia metrica florida & artificiosa__
 
