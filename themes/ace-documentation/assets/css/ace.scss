@@ -18,13 +18,19 @@ $dark:          #343a40;
 @import "bootstrap/bootstrap";
 
 /* Typography styling */
+
+.main {
+    line-height: 1.6;
+}
+
 .main > h1{
     padding-top: 2rem;
 }
 
 .main > h2{
     padding-top: 4rem;
-    margin-top:-1rem;   
+    padding-bottom: 1rem;
+    margin-top:-1rem;
 }
 
 .main > h3, .main > h4, .main > h5, .main > h6{
