@@ -52,3 +52,10 @@
   color: inherit;
 }
 
+blockquote > p {
+    margin-left: 4em;
+    margin-right: 4em;
+    background-color: #F8F8FF;
+    font-style: italic;
+}
+
