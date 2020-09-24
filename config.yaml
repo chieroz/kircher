@@ -5,6 +5,7 @@ defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
 googleAnalytics: ""
 languageCode: it_it
+
 markup:
   goldmark:
     renderer:
