@@ -4,6 +4,7 @@ date: 2020-09-22T00:53:34+02:00
 author: "Chieroz"
 weight: 1
 slug: "ars_magna"
+toc: false
 ---
 
 ## Aspetti della combinatoria nel Seicento: l'_ars magna_ al servizio dell'arte.
