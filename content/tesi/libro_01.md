@@ -18,11 +18,11 @@ I primi due capitoli di questo libro fungono da approccio alla materia: il primo
 
 Chiude il libro un'ampia __Appendice__, elemento essenziale di tutto il lavoro: essa ospita, accanto a vari esempi musicali, la trascrizione integrale delle quasi cinquanta tavole si cui si basa il metodo compositivo di Athanasius Kircher.
 
-<div class="alert alert-info">
 
+{{< alert style="info" >}}
 ## 1.2 Nota sulle abbreviazioni
 
 Nel corso di questo studio le citazioni e i richiami al testo della _Musurgia Universalis_ sono assai frequenti: per evitare continui rimandi in nota che appesantirebbero la lettura costringendo a un continuo andirivieni mi è sembrato utile l'uso di un semplice sistema di abbreviazioni per inserire direttamente nel testo il riferimento _ad paginam_. Le necessarie precisazioni bibliografiche sulla _Musurgia Universalis_ sono contenute nella sezione <a href="libro_12.html#Heading87">12.1</a>.
 
 Ci troviamo di fronte a un'opera che è stata pubblicata una sola volta e quindi non si pongono problemi di riferimenti a successive edizioni ampliate o modificate; l'opera inoltre è divisa in due tomi che hanno una numerazione indipendente e tutto sommato esente da errori, numerazione rispettata anche dalla ristampa anastatica del 1970 che raccoglie i due tomi in un unico volume: la decisione più opportuna mi è parsa quindi quella di adottare un metodo d'abbreviazione che rispettasse la bipartizione generale, e utilizzo pertanto unitamente al numero di pagina la sigla MU A per i richiami al primo tomo e la sigla MU B per i rimandi al secondo tomo.
-</div>
+{{< /alert >}}
