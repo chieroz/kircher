@@ -4,6 +4,7 @@ date: 2020-09-22T00:55:47+02:00
 author: "Chieroz"
 weight: 2
 slug: 'mirifica'
+toc: false
 ---
 
 ## 1. Un uomo e un libro universali
