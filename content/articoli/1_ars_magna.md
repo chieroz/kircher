@@ -82,97 +82,97 @@ Nelle mani di Kircher e nel contesto della _Musurgia Universalis_, l'_ars combin
 
 <div class="d-none">
 
-<div id="fn1">
+{{ <div id="fn1">
     Si veda Paolo Rossi, _Clavis Universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna, il Mulino 1983 (1a ed. Milano-Napoli, Ricciardi, 1960), pp. 179-200.
-</div>
+</div> }}
 
-<div id="fn2">
+{{ <div id="fn2">
     Eberhard Knobloch, "Musurgia Universalis: Unknown Combinatorial Studies in the Age of Baroque Absolutism", in _History of Science_, XXXVIII (1979), pp.258-275.
-</div>
+</div> }}
 
-<div id="fn3">
+{{ <div id="fn3">
     Paolo Rossi, _Clavis Universalis_, op. cit., pp. 211-219.
-</div>
+</div> }}
 
-<div id="fn4">
+{{ <div id="fn4">
     Vedi Cesare Vasoli, "Considerazioni sull'_Ars Magna Sciendi_", in AA.VV., _Enciclopedismo in Roma barocca. Athanasius Kircher e il Museo del Collegio Romano tra Wunderkammer e museo scientifico_, a cura di Maristella Casciato, Maria Grazia Ianniello, Maria Vitale, Venezia, Marsilio, 1986, pp. 62-77.
-</div>
+</div> }}
 
-<div id="fn5">
+{{ <div id="fn5">
     Una biografia di Kircher si trova in Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller. Ein Beitrag zur Musikanschauung des Barock_, Marburg, Görich & Weiershäuser, 1969. Si tratta tuttavia di un testo non certo esaustivo.
-</div>
+</div> }}
 
-<div id="fn6">
+{{ <div id="fn6">
     Athanasius Kircher, _Ars magna sciendi, In XII Libros Digesta, qua nova et universali Methodo Per Artificiosum Combinationum contextum de omni re proposita plurimis et prope infinitis rationibus disputari, omniumque summaria quaedam cognitio comparari potest_, Amstelodami, Apud Joannem Janssonium a Waesberge et Viduam Elizei Weyerstraet, 1669.
-</div>
+</div> }}
 
-<div id="fn7">
+{{ <div id="fn7">
     Raimondo Lullo (circa 1232-1316) elaborò una "ars inveniendi veritatem" che avrebbe dovuto permettere di formulare affermazioni vere con un processo razionale per mezzo di diagrammi combinatori. Partendo dalla teoria degli elementi, secondo la quale ogni cosa nella natura era composta dal graduato combinarsi di terra, aria fuoco e acqua, fondò la sua ars attribuendo importanza ai nomi o attributi del divino, che egli chiamò "dignità" e rappresentò con lettere dell'alfabeto disposte su cerchi concentrici rotanti; la combinazione fra la sfera degli elementi (ABCD) e quella delle dignità (BCDEFGHIK) avrebbe permesso di formulare in modo sintetico ogni possibile riflessione.
-</div>
+</div> }}
 
-<div id="fn8">
+{{ <div id="fn8">
     Si vedano su questo argomento: Gershom Scholem, _Kabbalah_, Jerusalem, Keter, 1974 (tr, it. di Roberta Rambelli, _La cabala_, Roma, Mediterranee, 1982, 495 p.); Frances Yates, _The Occult Philosophy in the Elizabethan Age_, London, Routledge & Kegan Paul, 1979 (tr. it. di Santina Mobiglia, _Cabbala e occultismo nell'età elisabettiana_, Torino, Einaudi, 1982, 240 p.); id., _The Rosicrucian Enlightenment_, London, Routledge & Kegan Paul, 1972 (tr. it. di Metella Rovero, _L'illuminismo dei Rosa-Croce_, Torino, Einaudi, 1976, XXX+318 p.).
-</div>
+</div> }}
 
-<div id="fn9">
+{{ <div id="fn9">
     Il metodo della _musurgia mirifica_ ebbe grande successo presso i missionari gesuiti che si servivano della musica per indottrinare con maggior facilità le popolazioni con cui venivano in contatto: sfruttando il metodo di Kircher erano in grado di comporre brani _ad hoc_ utilizzando testi nella lingua indigena, cui difficilimente avrebbero potuto adattare musiche preesistenti.
-</div>
+</div> }}
 
-<div id="fn10">
+{{ <div id="fn10">
     Kircher fu uno dei più autorevoli ed originali autori che si occuparono dell'_Affektenlehre_, la teoria degli affetti barocca, che egli rapportò ai quattro umori fondamentali riallacciandosi alla teoria dei quattro temperamenti di Galeno. Si veda su questo punto Mariangela Donà, "Affetti musicali nel Seicento", _Studi secenteschi_, VIII (1967), pp. 75-94.
-</div>
+</div> }}
 
-<div id="fn11">
+{{ <div id="fn11">
     In realtà i musicisti di professione criticarono aspramente Kircher proprio su questo punto. Egli inserì addirittura nel corso stesso della _Musurgia Universalis_ alcuni passi destinati alla confutazione (quasi una _excusatio non petita_) dell'accusa di monotonia armonica. Vedi ad esempio le pp. 48, 57, 59 del secondo tomo.
-</div>
+</div> }}
 
-<div id="fn12">
+{{ <div id="fn12">
     Si veda Paolo Rossi, _Clavis universalis_, op. cit., pp. 259-281.
-</div>
+</div> }}
 
-<div id="fn13">
+{{ <div id="fn13">
     Paul Friedländer, "Athanasius Kircher und Leibniz. Ein Beitrage zur Geschichte der Polyhistorie in XVII Jahrhunderts", _Atti della Pontificia Accademia Romana di Archeologia_, Serie III, Rendiconti, XIII (1937), pp. 229-247.
-</div>
+</div> }}
 
-<div id="fn14">
+{{ <div id="fn14">
     Marin Mersenne, _Harmonie Universelle, contenant la theorie et la pratique de la musiqve_, Paris, Chez Sebastien Cramoisy, 1636 (Edition facsimilé, Paris, Editions du Centre National de le Recherche Scientifique, 1963), "Liure des chants", "Proposition IX", p. 110.
-</div>
+</div> }}
 
-<div id="fn15">
+{{ <div id="fn15">
     _Magia universalis Naturae et Artis, sive Recondita Naturalium et Artificialium rerum scientia, cuius Ope per variam Applicationem activorum cum passivis, admirandorum effectuum Spectacula, abditarumque inventionum Miracula ad varios humanae vitae ususeruuntur. Opvs qvadripartitum. Pars I continet Optica. II Acoustica, III Mathematica. IV Physica_, Tomus I, Herbipoli, excudebat Henricus Pigrin, 1657, 4&#176;, 538 p., Pars II, Herbipoli, excudebat Jobus Hertz, 1657, 432 p., Pars III, Herbipoli, excudebat Jobus Hertz, 1658, 4&#176;, 815,p., Pars IV, Herbipoli, sumptibus Haeredum Joannis Godefridi Schönwetteri, 1659, 4&#176;, 670 p.
-</div>
+</div> }}
 
-<div id="fn16">
+{{ <div id="fn16">
     Christophorus Clavius (1537-1612) fu una delle principali fonti degli studi sulla combinatoria nel Seicento: importante fu il suo _In sphaeram Joannis de Sacro Bosco commentarius_, pubblicato a Roma nel 1585.
-</div>
+</div> }}
 
-<div id="fn17">
+{{ <div id="fn17">
     Eberhard Knobloch, "Musurgia Universalis: Unknown Combinatorial Studies in the Age of Baroque Absolutism"_, _op. cit., p. 260.
-</div>
+</div> }}
 
-<div id="fn18">
+{{ <div id="fn18">
     Le "fonti" di Kircher si trovano in Mersenne, _Harmonie Universelle_, op. cit., "Traitez de la Voix et des Chants", pp. 1-88, "Traité des Instruments a Cordes" pp.309-412.
-</div>
+</div> }}
 
-<div id="fn19">
+{{ <div id="fn19">
     Ricordiamo che nel 1633 Kircher era stato chiamato a Vienna come matematico imperiale e successore di Keplero (morto nel 1631). Non ricoprì mai l'incarico perchè fu trattenuto a Roma da papa Urbano VIII, che lo volle come studioso dei geroglifici presso il Collegio Romano, culla della cultura gesuita.
-</div>
+</div> }}
 
-<div id="fn20">
+{{ <div id="fn20">
     Il prodotto fattoriale di un dato numero è il prodotto di tutti i numeri interi da 1 fino al quel numero.
-</div>
+</div> }}
 
-<div id="fn21">
+{{ <div id="fn21">
     Marin Mersenne, _Harmonie Universelle_, op. cit., "Traitez de le Voix et des Chants", p. 108.
-</div>
+</div> }}
 
-<div id="fn22">
+{{ <div id="fn22">
     In termini tecnici, si tratta di "disposizioni semplici di classe k di un numero n di elementi", con la formula Dn,k= n(n-1)....(n-k-1). Dove n indica il numero complessivo degli elementi che compongono la classe in esame e k indica il numero degli elementi scelti per la disposizione.
-</div>
+</div> }}
 
-<div id="fn23">
+{{ <div id="fn23">
     Marin Mersenne, _Harmonie Universelle_, op. cit., "Liure des Chants", p. 132.
-</div>
+</div> }}
 
 </div>
 
