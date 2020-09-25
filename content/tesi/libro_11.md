@@ -37,16 +37,7 @@ Esempio musicale
 
 La prima cosa da fare consiste nel trascrivere le note della linea del basso in lettere:<a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="271">[271]</a>
 
-<table >
-<colgroup>
-   <col width="36">
-   <col width="99">
-</colgroup>
-<tr valign="TOP">
-    <td width=36 colspan=1 rowspan=1 valign=top><br></td>
-    <td width=99 colspan=1 rowspan=1 valign=top>F B G D B C F</td>
-</tr>
-</table>
+> F B G D B C F
 
 A questo punto bisogna scegliere, fra i bacilli che si è deciso di utilizzare, quelli le cui fondamentali corrispondono alle lettere trascritte, ordinandoli in modo da rispettare la sequenza originaria del basso. Giunti a questo punto, per ottenere una prima linea melodica da sovrapporre al basso dato sarà sufficiente scegliere in ogni bacillus una qualsiasi nota, eccettutata la fondamentale. Unica precauzione, non scegliere di seguito due note contrassegnate dal cinque o dall'otto, per evitare di avere consonanze perfette (ottave o quinte) parallele. Scelte le note per una voce, si procederà nello stesso modo per le voci rimanenti, avendo cura di non scegliere note già utilizzate.
 
@@ -59,7 +50,7 @@ Si tratta di un metodo che forse non si potrebbe neppure definire "compositivo";
 
 Ecco un elenco:
 
-<table >
+<table class="table">
 <colgroup>
     <col width="36">
     <col width="162">

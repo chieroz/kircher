@@ -12,7 +12,7 @@ Kircher ha deciso di non riportare nella _Musurgia Universalis_ i _pinaces_ dell
 
 > Verum ne quispiam me plura quam probare possim, iactare dicere possit, hic speciminis loco apponere visum est, ingeniosam compositionem, quam artis meae ope perfecit.
 
-La composizione inserita da Kircher è il _Dialogus à 6, sive Melothesia vario style concinnata, ope novae Artis Musarithmicae peracta _, (trascritta in Appendice CX-CXXXI) che sarebbe stata composta dal cardinale Bernardino Rocci, Referendarius presso papa Innocenzo X intorno al 1649.<a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="260">[260]</a> Sebbene Rocci fosse del tutto digiuno di musica, la sua composizione, condotta secondo le regole della _musurgia mirifica_, è secondo Kircher (MU B 166) così perfetta che può senz'altro reggere il confronto con i capolavori scritti dai più grandi maestri:
+La composizione inserita da Kircher è il _Dialogus à 6, sive Melothesia vario style concinnata, ope novae Artis Musarithmicae peracta_, (trascritta in Appendice CX-CXXXI) che sarebbe stata composta dal cardinale Bernardino Rocci, Referendarius presso papa Innocenzo X intorno al 1649.<a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="260">[260]</a> Sebbene Rocci fosse del tutto digiuno di musica, la sua composizione, condotta secondo le regole della _musurgia mirifica_, è secondo Kircher (MU B 166) così perfetta che può senz'altro reggere il confronto con i capolavori scritti dai più grandi maestri:
 
 > Illustrissimus [...] Dominus Bernardinus Roccius [...] ingenij acumine, & praestantia insignis, qui tametsi musicae practicae imperitus, eas tamen artis nostrae notitia peregit compositiones, quae cum operibus summorum magistrorum merito comparari possint.
 
@@ -70,31 +70,31 @@ Purtroppo non è possibile in alcun modo entrare nel merito degli artifici compo
 
 <div class="d-none">
 
-{{ <div id="fnB260">
+{{ <div id="fn260">
     Il cardinale morì nel 1680 come Kircher. Ulf Scharlau (_Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit.) a pagina 208 cita in tal senso una necrologia del cardinale conservata presso la Biblioteca Vaticana di Roma (Sign.: Ms. Vat. Lat. 7890): "1680. Il Sig. Cardinale Bernardino Rocci".
 </div> }}
 
-{{ <div id="fnB261">
+{{ <div id="fn261">
     "Et ne quispiam ex maleuolis cauillari posset, aut meam aut cuiusuis alterius operam Compositori accessisse, hinc visum fuit testem huius oculatum adhibere Ginum Angelum Capponium Equitem Musicae peritissimum, & operibus quae edidit clarissimum, qui componenti astitit, composita ab eodem mox reuidit, approbauitque." (MU B 166).
 </div> }}
 
-{{ <div id="fnB262">
+{{ <div id="fn262">
     Kircher segna questa voce "Altus Barytonus" e scrive in chiave di contralto.
 </div> }}
 
-{{ <div id="fnB263">
+{{ <div id="fn263">
     Manfred F. Bukofzer, _Music in the Baroque Era_, op. cit., pp. 167-169).
 </div> }}
 
-{{ <div id="fnB264">
+{{ <div id="fn264">
     "[...] in dialogi formam brevem contexuit compositionem, in qua & stylus recitatiuus affectibus pulchre accommodatus respondet" (MU B 166).
 </div> }}
 
-{{ <div id="fnB265">
+{{ <div id="fn265">
     "Madrigalescus stylus est, processus quidam harmonicus moralium actionum virtutibus, amoribus, alijsque ingeniosis ad fabulas, & historias, allusionibus exprimendis aptissimus" (MU A 586).
 </div> }}
 
-{{ <div id="fnB266">
+{{ <div id="fn266">
     Con questo termine Kircher indica una musica adatta a feste e festini: "Hyporchematicus stylus ludicris, festiuisque solennitatibus aptissimus est" (MU A 586); esso può essere "teatrale" ("theatricus") oppure "da ballo" ("choraicus").
 </div> }}
 
