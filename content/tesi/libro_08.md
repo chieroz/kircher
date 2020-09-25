@@ -56,20 +56,36 @@ Ugualmente composta secondo un regolare contrapunctus simplex è la "Melothesia 
 
 <div class="d-none">
 
-<div id="fn223">Ci sembra opportuno riprendere una citazione già utilizzata: "Certe ad arcanum hoc publicandum multum potuere Patrum nostrorum in remotissimas terrarum Indias commigrantium vota, & efficax deprecatio: Cum enim barbarorum hominum attrctio in musici exercitij laudumque diuinarum frequentatione consistat, neque sempre "ibri impressi, aut compositoes adsint; maxime hanc Musurgiam ijs usui futuram credebant, cum hac non desideratas tantum cantilenas, in latina lingua, sed & quacunque proposita lingua, etiam Indici, & quantumuis barbari idiomatis sint effecturi" (MU B 2).</div>
+{{ <div id="fn223">
+    Ci sembra opportuno riprendere una citazione già utilizzata: "Certe ad arcanum hoc publicandum multum potuere Patrum nostrorum in remotissimas terrarum Indias commigrantium vota, & efficax deprecatio: Cum enim barbarorum hominum attrctio in musici exercitij laudumque diuinarum frequentatione consistat, neque sempre "ibri impressi, aut compositoes adsint; maxime hanc Musurgiam ijs usui futuram credebant, cum hac non desideratas tantum cantilenas, in latina lingua, sed & quacunque proposita lingua, etiam Indici, & quantumuis barbari idiomatis sint effecturi" (MU B 2).
+</div> }}
 
-<div id="fn224">"Hoc loco Asiae, Africae, & Europae praecipuas & Orientales linguas [...] adducere volui" (MU B 141).</div>
+{{ <div id="fn224">
+    "Hoc loco Asiae, Africae, & Europae praecipuas & Orientales linguas [...] adducere volui" (MU B 141).
+</div> }}
 
-<div id="fn225">"Linguas vero Americanas non adduco cum earum notitiam non habeam" (ibidem).</div>
+{{ <div id="fn225">
+    "Linguas vero Americanas non adduco cum earum notitiam non habeam" (ibidem).
+</div> }}
 
-<div id="fn226">"Nam haec [l'accento tonico] totum humanae sermocinationis negotium dirigit [...]. Omnes gentes, & nationes, suos proprios accentus habent nationis proprios, & quo a coeteris gentibus distinguantur." (MU B 29).</div>
+{{ <div id="fn226">
+    "Nam haec [l'accento tonico] totum humanae sermocinationis negotium dirigit [...]. Omnes gentes, & nationes, suos proprios accentus habent nationis proprios, & quo a coeteris gentibus distinguantur." (MU B 29).
+</div> }}
 
-<div id="fn227">"Suppono itaque primo, stylum musicae alicui loco usitatum, naturalem complexionem hominum, & particularis alicuius regionis constitutionem consequi." (MU A 543).</div>
+{{ <div id="fn227">
+    "Suppono itaque primo, stylum musicae alicui loco usitatum, naturalem complexionem hominum, & particularis alicuius regionis constitutionem consequi." (MU A 543).
+</div> }}
 
-<div id="fn228">Cfr. Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_ [op. cit., p. 211.]</div>
+{{ <div id="fn228">
+    Cfr. Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_ [op. cit., p. 211.]
+</div> }}
 
-<div id="fn229">Cfr. Edith GERSON-KIWI, "Musica Ebraica", in Dizionario Enciclopedico Universale della Musica e dei Musicisti, Torino, UTET, 1983, "Il lessico", vol. II, pp. 95-100.</div>
+{{ <div id="fn229">
+    Cfr. Edith GERSON-KIWI, "Musica Ebraica", in Dizionario Enciclopedico Universale della Musica e dei Musicisti, Torino, UTET, 1983, "Il lessico", vol. II, pp. 95-100.
+</div> }}
 
-<div id="fn230">Si vedano soprattutto MU A 64-65.</div>
+{{ <div id="fn230">
+    Si vedano soprattutto MU A 64-65.
+</div> }}
 
 </div>

@@ -136,131 +136,131 @@ In questo contesto Kircher fa riferimento al sistema degli affetti inquadrato ne
 <div class="d-none">
 
 {{ <div id="fn71">
-    <p>L'esempio è tratto dal "Pinax IV. Iambica Euripidaea penultima longa" (MU B 83). </p>
+    L'esempio è tratto dal "Pinax IV. Iambica Euripidaea penultima longa" (MU B 83).
 </div> }}
 
 {{ <div id="fn72">
-    <p>Cfr. _supra_ sez. §sicuro?§ V.1.C. </p>
+    Cfr. _supra_ sez. §sicuro?§ V.1.C.
 </div> }}
 
 {{ <div id="fn73">
-    <p>I _musarithmi_sono in tutto 436 per il _contrapunctus simplex_ e 230 per il  _contrapuntus floridus_. Se si considera che, solo per fare un esempio, il numero delle combinazioni delle ventun lettere dell'alfabeto italiano ammonta a oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi. </p>
+    I _musarithmi_sono in tutto 436 per il _contrapunctus simplex_ e 230 per il  _contrapuntus floridus_. Se si considera che, solo per fare un esempio, il numero delle combinazioni delle ventun lettere dell'alfabeto italiano ammonta a oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi.
 </div> }}
 
 {{ <div id="fn74">
-    <p>Cfr. _infra_il capitolo §sicuro?§ I.4.G. </p>
+    Cfr. _infra_il capitolo §sicuro?§ I.4.G.
 </div> }}
 
 {{ <div id="fn75">
-    <p>Cfr. _supra_ il capitolo §sicuro?§ VIII. §§ </p>
+    Cfr. _supra_ il capitolo §sicuro?§ VIII. §§
 </div> }}
 
 {{ <div id="fn76">
-    <p>Dobbiamo sottolineare che Kircher usa alternativamente i termini "plectrologia" e "sceptrologia". </p>
+    Dobbiamo sottolineare che Kircher usa alternativamente i termini "plectrologia" e "sceptrologia".
 </div> }}
 
 {{ <div id="fn77">
-    <p>Caspar Schott nacque a Königshofen, presso Würzburg, il 5 febbraio 1608. Nel 1627 entrò nella Compagnia di Gesù e fu inviato all'Università di Würzburg. Qui conobbe Kircher, che fu suo insegnante di filosofia: d'ora in avanti Schott lo considererà il proprio maestro, con profondo rispetto ed ammirazione. Costretto a fuggire nel 1631, dapprima seguì Kircher in Francia ma poi si trasferì a Palermo, dove ebbe modo di completare i propri studi. Senza mai avere interrotto i contatti con Kircher, riuscì nel 1652 ad ottenere il trasferimento a Roma. Fu il compilatore di alcune opere basate interamente sui materiali raccolti da Kircher, che egli non aveva tempo di scrivere e sono solitamente ascritte a quest'ultimo. Nel 1655 tornò in Germania per insegnare matematica e fisica a Würzburg; attento e diligente divulgatore, non compì mai ricerche autonome. Spese i suoi ultimi anni nella pubblicazione del materiale accumulato il anni di lavoro. Senza più riuscire a tornare nell'amata Roma morì a Würzburg, stroncato dall'eccessivo lavoro, il 22 maggio 1666. </p>
+    Caspar Schott nacque a Königshofen, presso Würzburg, il 5 febbraio 1608. Nel 1627 entrò nella Compagnia di Gesù e fu inviato all'Università di Würzburg. Qui conobbe Kircher, che fu suo insegnante di filosofia: d'ora in avanti Schott lo considererà il proprio maestro, con profondo rispetto ed ammirazione. Costretto a fuggire nel 1631, dapprima seguì Kircher in Francia ma poi si trasferì a Palermo, dove ebbe modo di completare i propri studi. Senza mai avere interrotto i contatti con Kircher, riuscì nel 1652 ad ottenere il trasferimento a Roma. Fu il compilatore di alcune opere basate interamente sui materiali raccolti da Kircher, che egli non aveva tempo di scrivere e sono solitamente ascritte a quest'ultimo. Nel 1655 tornò in Germania per insegnare matematica e fisica a Würzburg; attento e diligente divulgatore, non compì mai ricerche autonome. Spese i suoi ultimi anni nella pubblicazione del materiale accumulato il anni di lavoro. Senza più riuscire a tornare nell'amata Roma morì a Würzburg, stroncato dall'eccessivo lavoro, il 22 maggio 1666.
 </div> }}
 
 {{ <div id="fn78">
-    <p>Caspar Schott, _Magia universalis Naturae et Artis_, Herbipoli, 1657/1659. Le pagine che interessano a questo proposito si trovano soprattutto nel "Liber VII de Magia Symphoniurgica" della "Pars II Acustica" pp. 382-420. </p>
+    Caspar Schott, _Magia universalis Naturae et Artis_, Herbipoli, 1657/1659. Le pagine che interessano a questo proposito si trovano soprattutto nel "Liber VII de Magia Symphoniurgica" della "Pars II Acustica" pp. 382-420.
 </div> }}
 
 {{ <div id="fn79">
-    <p>Athanasius Kircher, _Organum Mathematicum_, Herbipoli, 1668 e 1688. Le parti pertinenti si trovano nel "Liber IX Musicus", pp. 761-858. Questo testo, nel quale viene descritta una macchina calcolatrice inventata da Kircher, è stato in realtà redatto da Schott: il materiale tuttavia ascende completamente a Kircher, nominato sempre come "author". Carlos Sommervogel nella _Bibliothèque de la Compagnie de Jésus_, op. cit., assegna (col. 1065, n. 26) il testo a Kircher (vedi anche infra l'"Elenco cronologico delle opere di Athanasius Kircher"); per amore di precisione riferiamo che nell'esemplare consultato (ed. del 1668) è invece Schott ad essere indicato come autore. </p>
+    Athanasius Kircher, _Organum Mathematicum_, Herbipoli, 1668 e 1688. Le parti pertinenti si trovano nel "Liber IX Musicus", pp. 761-858. Questo testo, nel quale viene descritta una macchina calcolatrice inventata da Kircher, è stato in realtà redatto da Schott: il materiale tuttavia ascende completamente a Kircher, nominato sempre come "author". Carlos Sommervogel nella _Bibliothèque de la Compagnie de Jésus_, op. cit., assegna (col. 1065, n. 26) il testo a Kircher (vedi anche infra l'"Elenco cronologico delle opere di Athanasius Kircher"); per amore di precisione riferiamo che nell'esemplare consultato (ed. del 1668) è invece Schott ad essere indicato come autore.
 </div> }}
 
 {{ <div id="fn80">
-    <p>Caspar Schott, §§§, op. cit., "De Symphoniurgia Contrapuncti simplicis per bacillos musurgicos", p. 387. </p>
+    Caspar Schott, §§§, op. cit., "De Symphoniurgia Contrapuncti simplicis per bacillos musurgicos", p. 387.
 </div> }}
 
 {{ <div id="fn81">
-    <p>"... cum his Herbipoli Mathematicas Disciplinas publicé in scholis profiteretur", _ibidem_. </p>
+    "... cum his Herbipoli Mathematicas Disciplinas publicé in scholis profiteretur", _ibidem_.
 </div> }}
 
 {{ <div id="fn82">
-    <p>Si tratta di una specie di regolo calcolatore, descritto da Kircher nel _Pantometrum Kircherianum_, Herbipoli, 1660. </p>
+    Si tratta di una specie di regolo calcolatore, descritto da Kircher nel _Pantometrum Kircherianum_, Herbipoli, 1660.
 </div> }}
 
 {{ <div id="fn83">
-    <p>Caspar Schott, §§§, op. cit., p. 392. </p>
+    Caspar Schott, §§§, op. cit., p. 392.
 </div> }}
 
 {{ <div id="fn84">
-    <p>Aix-en-Provence, 6 giugno 1633. Citato da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 34. </p>
+    Aix-en-Provence, 6 giugno 1633. Citato da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 34.
 </div> }}
 
 {{ <div id="fn85">
-    <p>Marin Mersenne, _Correspondence_, 4 (1955), n. 326. Citato da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 34. </p>
+    Marin Mersenne, _Correspondence_, 4 (1955), n. 326. Citato da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 34.
 </div> }}
 
 {{ <div id="fn86">
-    <p>La lettera è datata "Roma, 27 febbraio 1636". Si trova in Marin Mersenne, _Correspondence_ 6 (1960), n. 544. La questione alla base dell'intero progetto della _musurgia mirifica_ venne trattato da Mersenne nella "Question 36" delle _Questions inouyes_, Paris, 1634. Alla domanda Mersenne risponde affermativamente, in quanto la composizione musicale a suo giudizio non è altro che una successione di consonanze che si susseguno le une alle altre. Anche nella _Harmonie Universelle_ (vedi _infra_ tutto il capitolo III) la combinatoria applicata alla musica occupa un posto d'onore. </p>
+    La lettera è datata "Roma, 27 febbraio 1636". Si trova in Marin Mersenne, _Correspondence_ 6 (1960), n. 544. La questione alla base dell'intero progetto della _musurgia mirifica_ venne trattato da Mersenne nella "Question 36" delle _Questions inouyes_, Paris, 1634. Alla domanda Mersenne risponde affermativamente, in quanto la composizione musicale a suo giudizio non è altro che una successione di consonanze che si susseguno le une alle altre. Anche nella _Harmonie Universelle_ (vedi _infra_ tutto il capitolo III) la combinatoria applicata alla musica occupa un posto d'onore.
 </div> }}
 
 {{ <div id="fn87">
-    <p>Lettera da Aachen, 11 febbraio 1651. Citata da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 35. </p>
+    Lettera da Aachen, 11 febbraio 1651. Citata da Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 35.
 </div> }}
 
 {{ <div id="fn88">
-    <p>"De templo Musicae", "De Thaliae baculo, per quem non modo cantuum partes, sed & verae ipsorum concordantiae earumque positiones debite delineantur" (Tractatus II, Pars II, Liber I) in: Robert FLUDD (Robertus de Fluctibus), ]</a>_Utriusque Cosmi Maioris scilicet et Minoris Metaphysica, Physica atque Technica Historia_[, Oppenheim, 1617, p. 224 e sgg. </p>
+    "De templo Musicae", "De Thaliae baculo, per quem non modo cantuum partes, sed & verae ipsorum concordantiae earumque positiones debite delineantur" (Tractatus II, Pars II, Liber I) in: Robert FLUDD (Robertus de Fluctibus), ]</a>_Utriusque Cosmi Maioris scilicet et Minoris Metaphysica, Physica atque Technica Historia_[, Oppenheim, 1617, p. 224 e sgg.
 </div> }}
 
 {{ <div id="fn89">
-    <p>Georgius Behm (Litomierczicze, Bohemia, 1621; Znaym, 1666), _Propositiones Mathematico-Musurgicae quae facilius fiunt per Musurgiam Symphoniurgicam Kircheri_, Pragae, 1650. </p>
+    Georgius Behm (Litomierczicze, Bohemia, 1621; Znaym, 1666), _Propositiones Mathematico-Musurgicae quae facilius fiunt per Musurgiam Symphoniurgicam Kircheri_, Pragae, 1650.
 </div> }}
 
 {{ <div id="fn90">
-    <p>Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_[, op. cit., pp. 351-353. </p>
+    Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_[, op. cit., pp. 351-353.
 </div> }}
 
 {{ <div id="fn91">
-    <p>Per un rapido esame di esse vedi Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., pp. 346-355. </p>
+    Per un rapido esame di esse vedi Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., pp. 346-355.
 </div> }}
 
 {{ <div id="fn92">
-    <p>La lettera si trova in: Jacob Burckhard, _Historiae Bibliothecae Augustae, quae Wolfenbutteli est_, Lipsiae, Typis Breitkopfianis, 1746; Pars II Caput III, p. 128. </p>
+    La lettera si trova in: Jacob Burckhard, _Historiae Bibliothecae Augustae, quae Wolfenbutteli est_, Lipsiae, Typis Breitkopfianis, 1746; Pars II Caput III, p. 128.
 </div> }}
 
 {{ <div id="fn93">
-    <p>Leibniz aveva acquisito le sue conoscenze musicali soprattutto dal _Syntagma Musicum_ di Michael Praetorius e dalla _Musurgia Universalis_ di Kircher, che cita spesso nei suoi testi (§§Scharlau riferisce ad esempio di due passi negli _Opuscules_, 1903, 223 e 280). Leibniz fu soprattutto interessato dalle possibilità teoriche della combinatoria, soprattutto all'ulteriore sviluppo del procedimento creato da Kircher preparando una macchina che applicando il metodo della combinazione avrebbe potuto essere applicabile a tutti i campi dello scibile umano. Leibniz si occupò della combinatoria nella _Dissertatio de arte combinatoria_, Lipsiae, 1666. Cfr. per approfondimenti P. Friedländer, "Athanasius Kircher und Leibniz. Ein Beitrag zur Geschichte der Polyhistorie im XVII Jahrhundert", _Rendiconti. Atti della Pontificia Accademia Romana di Archeologia_, serie III, volume XIII (a. a. 1937), pp. 229-247. Cfr. anche Andrea Luppi, _Lo specchio dell'armonia universale. Estetica e musica in Leibniz_, Milano, Franco Angeli, 1989. </p>
+    Leibniz aveva acquisito le sue conoscenze musicali soprattutto dal _Syntagma Musicum_ di Michael Praetorius e dalla _Musurgia Universalis_ di Kircher, che cita spesso nei suoi testi (§§Scharlau riferisce ad esempio di due passi negli _Opuscules_, 1903, 223 e 280). Leibniz fu soprattutto interessato dalle possibilità teoriche della combinatoria, soprattutto all'ulteriore sviluppo del procedimento creato da Kircher preparando una macchina che applicando il metodo della combinazione avrebbe potuto essere applicabile a tutti i campi dello scibile umano. Leibniz si occupò della combinatoria nella _Dissertatio de arte combinatoria_, Lipsiae, 1666. Cfr. per approfondimenti P. Friedländer, "Athanasius Kircher und Leibniz. Ein Beitrag zur Geschichte der Polyhistorie im XVII Jahrhundert", _Rendiconti. Atti della Pontificia Accademia Romana di Archeologia_, serie III, volume XIII (a. a. 1937), pp. 229-247. Cfr. anche Andrea Luppi, _Lo specchio dell'armonia universale. Estetica e musica in Leibniz_, Milano, Franco Angeli, 1989.
 </div> }}
 
 {{ <div id="fn94">
-    <p>Wolfenbüttel, Herzog August Bibliothek, Sign.: Cod. Guelf. 90 Aug. 8°. </p>
+    Wolfenbüttel, Herzog August Bibliothek, Sign.: Cod. Guelf. 90 Aug. 8°.
 </div> }}
 
 {{ <div id="fn95">
-    <p>Afferma infatti Kircher al termine dell'esposizione del contenuto delle dieci tabelle relative alla </a>_musurgia rhetorica_ (MU B 147): "Atque hi sunt Pinaces, quibus Arca nostra Musurgica constat, ad perfectam componendi notitiam perducentes, quos tamen in hoc libro [...] consulto omisimus." </p>
+    Afferma infatti Kircher al termine dell'esposizione del contenuto delle dieci tabelle relative alla </a>_musurgia rhetorica_ (MU B 147): "Atque hi sunt Pinaces, quibus Arca nostra Musurgica constat, ad perfectam componendi notitiam perducentes, quos tamen in hoc libro [...] consulto omisimus."
 </div> }}
 
 {{ <div id="fn96">
-    <p>Cfr. Bruno Pinchard, , in AA.VV., _Enciclopedismo in Roma barocca_, op, cit., pp. 87-100. Egli afferma (p. 100, n. 38) che "Il est difficile d'Ûtre de plus mauvaise fois que Kircher" quando allude alle pagine più segrete. </p>
+    Cfr. Bruno Pinchard, , in AA.VV., _Enciclopedismo in Roma barocca_, op, cit., pp. 87-100. Egli afferma (p. 100, n. 38) che "Il est difficile d'Ûtre de plus mauvaise fois que Kircher" quando allude alle pagine più segrete.
 </div> }}
 
 {{ <div id="fn97">
-    <p>Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., pp. 348-349. </p>
+    Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., pp. 348-349.
 </div> }}
 
 {{ <div id="fn98">
-    <p>Il gesuita confessore di Ferdinando scrive da Vienna il 6 febbraio 1649 a Kircher: "Valde Imp[er]ator expectat cistam musurgicam" (Greg. 561/133). La cassetta arrivò a Vienna in quello stesso anno. </p>
+    Il gesuita confessore di Ferdinando scrive da Vienna il 6 febbraio 1649 a Kircher: "Valde Imp[er]ator expectat cistam musurgicam" (Greg. 561/133). La cassetta arrivò a Vienna in quello stesso anno.
 </div> }}
 
 {{ <div id="fn99">
-    <p>§§§§, in Guido Adler, (Hrsg.) _Musikalische Werke der Kaiser Ferdinand III., Leopols I., und Joseph I._, Wien, 1892, Bd. II. 305. </p>
+    §§§§, in Guido Adler, (Hrsg.) _Musikalische Werke der Kaiser Ferdinand III., Leopols I., und Joseph I._, Wien, 1892, Bd. II. 305.
 </div> }}
 
 {{ <div id="fn100">
-    <p>Greg. 557/305. </p>
+    Greg. 557/305.
 </div> }}
 
 {{ <div id="fn101">
-    <p>Tale prudenza non deve stupire: i rapporti fra Froberger e Carissimi erano stati molto stretti. Vedi soprattutto Ulf Scharlau, "Neue Quellenfunde zur Biographie Johann Jakob Froberger" _Mf_[§, 22 (1969), pp. 47-52. </p>
+    Tale prudenza non deve stupire: i rapporti fra Froberger e Carissimi erano stati molto stretti. Vedi soprattutto Ulf Scharlau, "Neue Quellenfunde zur Biographie Johann Jakob Froberger" _Mf_[§, 22 (1969), pp. 47-52.
 </div> }}
 
 {{ <div id="fn102">
-    <p>§§§§§ "...] quae etiam hic addere volui, ut quorundam Musicorum practicorum maledicentiam compescam, qui statim hisce visis obijciunt Musicam semper eandem prodire" (MU B 48). Si noti l'uso del temine _musicus practicus_, scelto appositamente in segno di scarsa considerazione: il _practicus_ è colui che non sa ciò che fa, ma compone "a orecchio". Per Kircher invece il _musicus perfectus_ è colui che unisce pratica e teoria. Vedi _supra_[ §sicuro?§ I.4.A. </p>
+    §§§§§ "...] quae etiam hic addere volui, ut quorundam Musicorum practicorum maledicentiam compescam, qui statim hisce visis obijciunt Musicam semper eandem prodire" (MU B 48). Si noti l'uso del temine _musicus practicus_, scelto appositamente in segno di scarsa considerazione: il _practicus_ è colui che non sa ciò che fa, ma compone "a orecchio". Per Kircher invece il _musicus perfectus_ è colui che unisce pratica e teoria. Vedi _supra_[ §sicuro?§ I.4.A.
 </div> }}
 
 </div>

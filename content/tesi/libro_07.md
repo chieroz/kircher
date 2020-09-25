@@ -8,7 +8,7 @@ slug: "07"
 
 ## 7.1. II Syntagma: contrapunctus floridus
 
-Il secondo syntagma della terza sezione della _musurgia mirifica_ è dedicato al _contrapunctus floridus__.<a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="215">[215]</a> Alla base del metodo di composizione si trovano sempre i _pinaces_ contenenti i _musarithmi_ e le notae metrometrae.
+Il secondo syntagma della terza sezione della _musurgia mirifica_ è dedicato al _contrapunctus floridus_.<a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="215">[215]</a> Alla base del metodo di composizione si trovano sempre i _pinaces_ contenenti i _musarithmi_ e le notae metrometrae.
 
 In questo caso le tabelle sono soltanto sei. Eccone un elenco:
 
@@ -48,7 +48,7 @@ In questo caso le tabelle sono soltanto sei. Eccone un elenco:
 
 Questi _pinaces_ sono strutturati in modo leggermente diverso rispetto a quelli del precedente syntagma; infatti, come viene sottolineato in MU B 102:
 
-<p class="citazione">Notae Metrometrae [...] vocis sunt peculiares, in quo differunt à notis Metrometri in I Syntag. traditis; ibi enim ex 12 seriebus notarum metrometrarum vel una sufficit singulis 4 vocis communis; hic vero uniuscuiusque Musarithmi vox peculiarem sibi vendicat notarum seriem, quae mutari non debent.
+> Notae Metrometrae [...] vocis sunt peculiares, in quo differunt à notis Metrometri in I Syntag. traditis; ibi enim ex 12 seriebus notarum metrometrarum vel una sufficit singulis 4 vocis communis; hic vero uniuscuiusque Musarithmi vox peculiarem sibi vendicat notarum seriem, quae mutari non debent.
 
 Questo significa che ogni _musarithmus_ possiede un suo proprio ("peculiare") schema ritmico che non può assolutamente essere mutato: "notae sunt ita connexae cum numeris ut ab invicem separari non possint" (ibidem). Questo in conseguenza del fatto che le quattro voci non sono più isocrone ma procedono "varijs diuersarum vocum diminutionibus" (ibidem) e quindi bisogna rispettare con cura la scansione temporale in modo da evitare erronee sovrapposizioni di voci che generino dissonanze o cacofonie.
 
@@ -59,6 +59,7 @@ Sulla base di queste considerazioni possiamo affermare che la composizione basat
 Il modo di operare non cambia: Kircher ritiene addirittura inutile fornire ulteriori delucidazioni al lettore, che sarà in grado di "comporre" in contrapunctus floridus applicando le norme apprese nel corso del primo syntagma senza ulteriori restrizioni o particolari accorgimenti. Bisogna dire che Kircher non spiega come il verso vada articolato fra le note del _musarithmus_: frequentemente le poche sillabe di un verso sono animate da una clausula molto ricca di note, e il compositore dovrebbe sapere come effettuare la divisione. Kircher delega (MU B 124) il problema ai cantores.
 
 Eviteremo di ripetere le osservazioni sui procedimenti compositivi esposte già nel corso del capitolo precedente, puntualizzando invece un'aspetto particolare, peculiare della tecnica esposta in questo syntagma.
+
 
 ### 7.1.1. Operatio simplex e Operatio mixta
 
@@ -107,6 +108,7 @@ Kircher presenta un esempio basato sul metro _adonius_. Ecco i quattro _musarith
 
 In questo modo la composizione presenta una certa qual maggior varietà: soprattutto si amplia il numero degli elementi che il compositore può assemblare per giungere al risultato finito. <a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="217">[217]</a> Kircher non fornisce alcun tipo di norme circa le modalità di questo assemblaggio, ritenendo sufficiente l'esempio fornito; <a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="218">[218]</a> in realtà i _musarithmi_ non paiono assemblati con un particolare criterio, perché la "sensibile" contenuta nell'ultimo accordo del terzo _musarithmus_ (accordo che fa da ponte verso il _musarithmus_ successivo con una piccola cadenza sospesa) non risolve, come sarebbe corretto, sul primo grado, ma cade sul quarto grado.
 
+
 ## 7.2. Basi materiali del contrapunctus floridus
 
 I _pinaces_ per il contrapunctus floridus contengono una tale varietà di clausulae da rendere utopico il progetto di descriverne dettagliatamente il contenuto; è possibile solo riconoscere alcune strutture generali.
@@ -145,28 +147,36 @@ I _musarithmi_ di ciascun _pinax_ sono anche in questo caso articolati in quattr
 
 <div class="d-none">
 
-<div id="fn215">
+{{ <div id="fn215">
     Abbiamo già esaminato nella sezione V.2 la definizione di contrapunctus floridus fornita da Kircher.
-</div>
-<div id="fn216">
+</div> }}
+
+{{ <div id="fn216">
     "[...] simplicem quidem instituere poteris vel unico Musarithmo uni metri strophae respondenti. qui deinde per tonorum mutationem replicatus, impositam melothesiam assignet" (MU B 105).
-</div>
-<div id="fn217">
+</div> }}
+
+{{ <div id="fn217">
     "Quis autem immensam combinationum multitudinem & varietatem ex hac Musarithmorum permixtione satis describat? Certe earum combinationes tot sunt vel in uno pinace, ut totus Oceanus plures guttas habere non possit, quot diversas mutationes habebunt singulae permixtionum combinationes." (MU B 125) In questo modo Kircher esprime la sua meraviglia per le potenzialità di questo procedimento.
-</div>
-<div id="fn218">
+</div> }}
+
+{{ <div id="fn218">
     "Vides in hoc unico exemplo quomodo Musarithmi simplices floridis misceri debeant" (MU B 125).
-</div>
-<div id="fn219">
+</div> }}
+
+{{ <div id="fn219">
         Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., pp. 193-201.
-</div>
-<div id="fn220">
-        "Wenn Kircher daher in seiner 'Musurgia' den Kontrapunkt in aller Ausf³hrlichkeit behandelt, so setzt er sich damit von der italienischen Musik seiner Zeit ab und besinnt sich auf die deutsche Tradition, wobei er jedoch nicht radikal einseitig Stellung bez"eht, sondern auch hier bemüht ist, zu einer Synthese zwischen deutscher und italienischer Musikanschauung zu finden"; Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller _, op. cit., p. 194.
-</div>
-<div id="fn221">
+</div> }}
+
+{{ <div id="fn220">
+        "Wenn Kircher daher in seiner 'Musurgia' den Kontrapunkt in aller Ausf³hrlichkeit behandelt, so setzt er sich damit von der italienischen Musik seiner Zeit ab und besinnt sich auf die deutsche Tradition, wobei er jedoch nicht radikal einseitig Stellung bez"eht, sondern auch hier bemüht ist, zu einer Synthese zwischen deutscher und italienischer Musikanschauung zu finden"; Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller_, op. cit., p. 194.
+</div> }}
+
+{{ <div id="fn221">
     "Mixta autem operatio institui poterit per Musarithmos simplices ex Pinace IV anacreonticorum praecedentis syntagmatis excerptos, floridis huius pinacis Musarithmis apte insertos" (MU B 108).
-</div>
-<div id="fn222">
+</div> }}
+
+{{ <div id="fn222">
         I _musarithmi_ che presentano movimenti fugati sono: "Pinax I", strofa I, n. 7; "Pinax II", strofa III, n. 10; "Pinax III", strofa IV, n. 1, 3, 5, 10; "Pinax IV", strofa I, n. 9; "Pinax IV", strofa II, n. 2, 10. I ]</a>_musarithmi_ n. 2 e 3 del "Pinax II", strofa IV, presentano invece un più semplice movimento imitativo. Curiosamente troviamo anche un _musarithmus_ in contrapunctus simplex: nel "Pinax II", strofa I, n. 3.
-</div>
+</div> }}
+
 </div>
