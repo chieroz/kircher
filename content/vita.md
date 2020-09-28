@@ -5,7 +5,6 @@ author: "Carlo Mario Chierotti"
 weight: 10
 ---
 
-
 La fonte primaria per uno studio approfondito della vita di Athanasius Kircher è costituita dall'autobiografia manoscritta che ha fornito materiale a tutti i successivi lavori in questo ambito: essa copre il periodo che va dalla nascita sino al 1666.
 
 Athanasius Kircher nacque il 2 maggio (festa di sant'Atanasio) del 1601 (o 1602) a Geisa, presso Fulda, ultimo dei nove figli di Johann Kircher e Anna Gansek. Il padre, dottore in filosofia e teologia oltre che musicista dilettante, era docente laico di teologia presso il convento benedettino di Seiligenstadt/Main.
