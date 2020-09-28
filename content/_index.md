@@ -25,8 +25,8 @@ I "pinax", ovvero la base materiale del metodo di composizione della _musurgia m
 
 <hr>
 
-La lista delle opere di Kircher: non viene aggiornata da circa 20 anni, ed è stata ricavata consultando vari testi, fra cui: Carlos Sommervogel, _Bibliothéque de la Compagnie de Jésus_, Bruxelles, Oscar Schepens, Paris, Alphonse Picard, 1890-1898, vol. IV (1898), coll. 1046-1077 <a href="/varie/opere/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
+La lista delle opere di Kircher: non viene aggiornata da circa 20 anni, ed è stata ricavata consultando vari testi, fra cui: Carlos Sommervogel, _Bibliothéque de la Compagnie de Jésus_, Bruxelles, Oscar Schepens, Paris, Alphonse Picard, 1890-1898, vol. IV (1898), coll. 1046-1077 <a href="/opere/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
 
-Immagini e incisioni tratte dai libri di Athanasius Kircher. <a href="/varie/immagini/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
+Immagini e incisioni tratte dai libri di Athanasius Kircher. <a href="/immagini/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
 
-Tavole numeriche dedicate alla _musurgia combinatoria_. <a href="/varie/tavole/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
+Tavole numeriche dedicate alla _musurgia combinatoria_. <a href="/tavole/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
