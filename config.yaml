@@ -3,7 +3,7 @@ baseURL: "/"
 defaultContentLanguage: it
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
-googleAnalytics: ""
+googleAnalytics: "UA-89722916-2"
 languageCode: it_it
 
 markup:
