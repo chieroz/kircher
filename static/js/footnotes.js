@@ -8,6 +8,8 @@ $(document).ready(function () {
     let fnNumber = $(this).data("footnote");
     let fnText = $("#fn" + fnNumber).html();
 
+    console.log(fnText);
+
     $("#myFootnoteNumber").html(fnNumber);
     $("#myFootnoteText").html(fnText);
     $("#myFootnoteModal").modal("show");
