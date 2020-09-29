@@ -144,11 +144,11 @@ In questo contesto Kircher fa riferimento al sistema degli affetti inquadrato ne
 </div> }}
 
 {{ <div id="fn73">
-    I _musarithmi_sono in tutto 436 per il _contrapunctus simplex_ e 230 per il  _contrapuntus floridus_. Se si considera che, solo per fare un esempio, il numero delle combinazioni delle ventun lettere dell'alfabeto italiano ammonta a oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi.
+    I _musarithmi_ sono in tutto 436 per il _contrapunctus simplex_ e 230 per il  _contrapuntus floridus_. Se si considera che, solo per fare un esempio, il numero delle combinazioni delle ventun lettere dell'alfabeto italiano ammonta a oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi.
 </div> }}
 
 {{ <div id="fn74">
-    Cfr. _infra_il capitolo §sicuro?§ I.4.G.
+    Cfr. _infra_ il capitolo §sicuro?§ I.4.G.
 </div> }}
 
 {{ <div id="fn75">
