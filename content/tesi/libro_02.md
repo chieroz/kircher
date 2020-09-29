@@ -255,9 +255,8 @@ In totale le copie distribuite furono 822: per quanto riguarda il destino dei ri
     Le biografie più complete, anche se molto datate, sono: A. Behlau, "Athanasius Kircher, eine Lebensskizze", _Programm des Königlichen Katholischen Gymnasiums zu Heiligenstadt_, Heiligenstadt, 1874, pp. 1-18; Karl Brischar, "Athanasius Kircher, ein Lebensbild", _Katholische Studien_, vol. III, n. 5 (1877); G.J. Rosenkranz, "Aus dem Leben des Jesuiten Athanasius Kircher 1502-1680", _Zeitschrift für vaterländische Geschichte und Altertumskunde_, Verein für Geschichte und Altertumskunde Westfalens, vol. 13, no. 9 (1852), pp. 11-58. Più recente, ma meno accurato, è P. Conor Reilly, S.J., _Athanasius Kircher, Master of a Hundred Arts_, Rome-Wiesbaden, 1974.
 </div> }}
 
-
-<div id="fn2">
-    Athanasius Kircher, "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo". Fu pubblicata, unitamente a varie lettere, da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu_, Augustae Vindelicorum, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della "Vita", di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della "Vita" si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295.
+{{ <div id="fn2">
+    Athanasius Kircher, [pippo](https://chierotti.it) "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo". Fu pubblicata, unitamente a varie lettere, da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu_, Augustae Vindelicorum, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della "Vita", di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della "Vita" si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295.
 </div> }}
 
 {{ <div id="fn3">
