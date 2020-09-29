@@ -28,7 +28,7 @@ outputs:
 
 params:
   disableReadmoreNav: true
-  disableSearch: false
+  disableSearch: true
   highlightClientSide: false
   menushortcutsnewtab: true
   ordersectionsby: weight
