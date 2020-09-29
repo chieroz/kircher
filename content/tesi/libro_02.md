@@ -256,7 +256,7 @@ In totale le copie distribuite furono 822: per quanto riguarda il destino dei ri
 </div> }}
 
 {{ <div id="fn2">
-    Athanasius Kircher, [pippo](https://chierotti.it) "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo". Fu pubblicata, unitamente a varie lettere, da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu_, Augustae Vindelicorum, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della "Vita", di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della "Vita" si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295.
+    Athanasius Kircher, "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo". Fu pubblicata, unitamente a varie lettere, da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu_, Augustae Vindelicorum, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della "Vita", di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della "Vita" si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295.
 </div> }}
 
 {{ <div id="fn3">
