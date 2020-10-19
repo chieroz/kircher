@@ -20,7 +20,7 @@ Deve quindi essere ritenuta fondata l'opinione secondo cui l'edizione romana del
 
 Altri dubbi rimangono in merito ad una presunta edizione citata sbrigativamente e senza validi riferimenti da Carlos Sommervogel nella sua _Bibliotèque de la Compagnie de Jésus_, Bruxelles, Oscar Schepens, Paris, Alphonse Picard, 1890-1898, vol. IV, coll. 1046-1077, un'opera che contiene la bibliografia più dettagliata e precisa delle opere di Kircher. Sommervogel in questo caso specifico tuttavia ha mescolato informazioni corrette ad altre verosimilmente non suffragate da alcun riscontro. Alla col. 1051 n. 26 riferisce che il "Liber II Philologicus" ed il "Liber VII Diacriticus" vennero inseriti (col. CCCLIII-CCCCXVI e col. CCCCXVII-CCCCLVI) nel 32° tomo (pubblicato nel 1767) del _Thesaurus antiquitatum sacrarum complectens selectissima clarissimorum virorum opuscula, in quibus veterum Hebraeorum Mores, Leges, Instituta, Ritus Sacri, et Civiles Illustrantur_ di Biagio Ugolini, un corpus antologico in 34 volumi pubblicato a Venezia fra il 1744 e il 1769. Fin qui l'indicazione è corretta: l'opera di Ugolini viene però posta da Sommervogel in relazione con un'altra edizione del secondo e del settimo libro indicata succintamente "_Musurgia Universalis..._, Amstelodami 1662". Si tratta quasi sicuramente di un errore, come sostiene anche Scharlau: questo libro con ogni probabilità non esiste, e nel testo di Ugolini non abbiamo trovato alcuna traccia che induca a pensare il contrario.
 
-Bisogna infine ricordare che nel 1970 è stata pubblicata ad Hildesheim a cura della casa editrice Georg Olms Verlag una ristampa della _Musurgia Universalis_ che raccoglie i due tomi in un unico volume mantenendo la numerazione originale, con una prefazione e un indice analitico a cura di Ulf Scharlau (pp. i-xxxii). </p>
+Bisogna infine ricordare che nel 1970 è stata pubblicata ad Hildesheim a cura della casa editrice Georg Olms Verlag una ristampa della _Musurgia Universalis_ che raccoglie i due tomi in un unico volume mantenendo la numerazione originale, con una prefazione e un indice analitico a cura di Ulf Scharlau (pp. i-xxxii).
 
 
 ## 12.2 Toponomastica dei luoghi di edizione
@@ -112,7 +112,7 @@ __1679__ Turris Babel, sive Archontologia qua Primo Priscorum post diluvium homi
 
 __1679__ Tariffa Kircheriana sive Mensa Pythagorica expansa; Ad Matheseos quaesita accommodata per quinque columnas, quarum numeri in fronte sunt multiplicantes, et in prima columna dicuntur multiplicandi. R.Q.C. ubicumque occurrunt significant Radices, Quadrata, et Cubes in trauersa numerorum Serie, Romae, Typis et Sumptibus Nicolai Angeli Tinassij, 1679, 8o, pp. 400.
 
-__1680__ "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo", in Hieronimus Langenmantel, Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu, viri in Mathematicis et variorum Idiomatum Scientiis Celebratissimi, Complectentium Materias Philosophico-Mathematico-Medicas: Exaratae sunt ad nobiles, ervditos atq. Excellentissimos viros D.D. Lucas Schrökios, Seniorem et Juniorem, D. Hieronymum Velschium, Trigam Illustrem Medicorum, D. Ankelium, Theophilum Spizelium, et ad Autorem ipsum. Nunc primo in publicam lucem prodiere accurante A.R.P. Hieronimo Ambrosio Langenmantelio, Augustae Vindelicorum, Typis Utzschneiderianis, 1684, 8°, pp. 100 (tr. ted. della "Vita a semetipso conscripta" di Nikolaus SENG, Die Selbstbiographie des P. Athanasius Kircher, Fulda, 1901).</p>
+__1680__ "Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo", in Hieronimus Langenmantel, Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu, viri in Mathematicis et variorum Idiomatum Scientiis Celebratissimi, Complectentium Materias Philosophico-Mathematico-Medicas: Exaratae sunt ad nobiles, ervditos atq. Excellentissimos viros D.D. Lucas Schrökios, Seniorem et Juniorem, D. Hieronymum Velschium, Trigam Illustrem Medicorum, D. Ankelium, Theophilum Spizelium, et ad Autorem ipsum. Nunc primo in publicam lucem prodiere accurante A.R.P. Hieronimo Ambrosio Langenmantelio, Augustae Vindelicorum, Typis Utzschneiderianis, 1684, 8°, pp. 100 (tr. ted. della "Vita a semetipso conscripta" di Nikolaus SENG, Die Selbstbiographie des P. Athanasius Kircher, Fulda, 1901).
 
 
 ## 12.4 Fonti antiche utilizzate
@@ -163,7 +163,9 @@ PICERLI, Silverio, Specchio secondo di musica, nel quale si vede chiaro il vero 
 
 SCHOTT, Caspar, Magia universalis Naturae et Artis, sive Recondita Naturalium et Artificialium rerum scientia, cuius Ope per variam Applicationem activorum cum passivis, admirandorum effectuum Spectacula, abditarumque inventionum Miracula ad varios humanae vitae usus eruuntur. Opvs qvadripartitum. Pars I continet Optica. II Acoustica, III Mathematica. IV Physica, Tomus I, Herbipoli, excudebat Henricus Pigrin, 1657, 4°, pp. 538 (altra e. Bambergae, Sumpt. Joh Martini Schönvetteri, 1677, 4°, pp. 538); Pars II, Herbipoli, excudebat Jobus Hertz, 1657, pp. 432 (altra e. Bambergae, sumptibus Joannis Arnoldi Cholini, 1674, 4°, pp. 432); Pars III, Herbipoli, excudebat Jobus Hertz, 1658, 4°, pp. 815 (altre ed.: Bambergae, sumptibus Joannis Arnoldi Cholini, 1672, 4°, pp. 732; Bambergae, sumptibus Joh. Martini Schönwetteri, 1677, 4°, pp. 732); Pars IV, Herbipoli, sumptibus Haeredum Joannis Godefridi Schönwetteri, 1659, 4°, pp. 670 (altre ed.: Bambergae, sumptibus Joannis Arnoldi Cholini, 1674, 4°; Bambergae, sumptibus Joh. Martini Schönwetteri, 1677, 4°).
 
-SCHOTT, Caspar, Cursus Mathematicus, Sive Absoluta omnium Mathematicarum Disciplinarum Encyclopaedia, In Libros XXVIII digesta, eoque ordine disposita, ut quivis, vel mediocri praeditus ingenio, totam Mathesin a primis fundamentis proprio Marte addiscere possit, Herbipoli, excudebat Jobus Hertz, 1659, fol., pp. 660 (altre ed.: Francofurti ad Moenum, sumptibus Joanni Arnoldi Cholini, 1674, fol.; Bambergae, Sumptibus Joh Martini Schönwetteri, 1677, fol.). </p> <p>SCHOTT, Caspar, _Arithmetica Practica generalis ac specialis, E cursu Mathematico ejusdem Auctoris extracta, atq. correcta_, Herbipoli, Excudebat Jobus Hertz 1663, 8°, pp. 210 (altre ed.: Herbipoli, 1669, 8°; Tyrnaviae, Typis Academicis Societatis Jesu, 1721, 12°, pp. 74; Tyrnaviae, id., 1749, 12°; Claudiopoli, id., 1765, 12°; Tyrnaviae, 1769, 12°, pp. 68; Cassoviae, id., 1772, 12°, pp. 68; Agriae, Typis scholae episcopalis, 1776, 12°, pp. 72; Tyrnaviae, Typis regiae universitatis Budensis, 1777, 12°, pp. 117).
+SCHOTT, Caspar, Cursus Mathematicus, Sive Absoluta omnium Mathematicarum Disciplinarum Encyclopaedia, In Libros XXVIII digesta, eoque ordine disposita, ut quivis, vel mediocri praeditus ingenio, totam Mathesin a primis fundamentis proprio Marte addiscere possit, Herbipoli, excudebat Jobus Hertz, 1659, fol., pp. 660 (altre ed.: Francofurti ad Moenum, sumptibus Joanni Arnoldi Cholini, 1674, fol.; Bambergae, Sumptibus Joh Martini Schönwetteri, 1677, fol.).
+
+SCHOTT, Caspar, _Arithmetica Practica generalis ac specialis, E cursu Mathematico ejusdem Auctoris extracta, atq. correcta_, Herbipoli, Excudebat Jobus Hertz 1663, 8°, pp. 210 (altre ed.: Herbipoli, 1669, 8°; Tyrnaviae, Typis Academicis Societatis Jesu, 1721, 12°, pp. 74; Tyrnaviae, id., 1749, 12°; Claudiopoli, id., 1765, 12°; Tyrnaviae, 1769, 12°, pp. 68; Cassoviae, id., 1772, 12°, pp. 68; Agriae, Typis scholae episcopalis, 1776, 12°, pp. 72; Tyrnaviae, Typis regiae universitatis Budensis, 1777, 12°, pp. 117).
 
 SCHOTT, Caspar, Technica curiosa sive Mirabilia artis, libris XII comprehensa; quibus varia experimenta, variaque Technasmata Pneumatica, Hydraulica, Hydrotecnica, Mechanica, Graphica, Cyclometrica, Chronometrica, Automatica, Cabalistica, aliaque artis Arcana ac miracula, rara, curiosa, ingeniosa, magnamque partem nova et antehac inaudita, eruditi orbis utilitati, delectationi disceptationique proponuntur, s.l. excudebat Jobus Hertz, 1664, 4°, pp. 1044 (altra ed.: s.l., excudebat Jobus Hertz, 1687, 4°, pp. 1044).
 
@@ -177,7 +179,7 @@ TEVO, Zaccaria, _Il musico testore_, Venezia, appresso Antonio Bortoli, 1706 (ri
 
 UGOLINUS, Blasius, Thesaurus antiquitatum sacrarum complectens selectissima clarissimorum virorum opuscula, in quibus veterum Hebraeorum Mores, Leges, Instituta, Ritus Sacri, et Civiles Illustrantur, Venetiae, 1744-1769, 34 volumi.
 
-ZARLINO, Gioseffo, De tutte l'opere del R.M. Gioseffo Zarlino da Chioggia Maestro di cappella della Serenissima Signoria di Venezia, già separatamente poste in luce hora di nuovo corrette, accresciute et migliorate insieme ristampate. Il primo volume contenente l'Istitutioni harmoniche. Il secondo volume contenente le Dimostrazioni harmoniche divise in cinque ragionamenti, Venetia, 1589, 2 vol. </p>
+ZARLINO, Gioseffo, De tutte l'opere del R.M. Gioseffo Zarlino da Chioggia Maestro di cappella della Serenissima Signoria di Venezia, già separatamente poste in luce hora di nuovo corrette, accresciute et migliorate insieme ristampate. Il primo volume contenente l'Istitutioni harmoniche. Il secondo volume contenente le Dimostrazioni harmoniche divise in cinque ragionamenti, Venetia, 1589, 2 vol.
 
 
 ## 12.5 Testi moderni utilizzati
@@ -198,7 +200,9 @@ AMMANN, Peter J., "The Musical Theory and Philosophy of Robert Fludd", _Journal 
 
 APEL, Willi, _The Notation of Polyphonic Music. 900-1600_, Cambridge, Massachusetts, The Medieval Academy of America, 1953 (tr. it. a cura di Piero Neonato, _La notazione della musica polifonica. Dal X al XVII secolo_, Firenze, Sansoni, 1984).
 
-BACKER, Augustin et Alois de, Bibliothéque des Ecrivains de la Compagnie de Jèsus, ou notices bibliographiques, Liège, impr. de L. Grandmont-Dondes, 1853. </p> <p>BARAGGIO, P., NAVA, N., _Elementi di probabilità statistica_, Milano, Hoepli, 1987.
+BACKER, Augustin et Alois de, Bibliothéque des Ecrivains de la Compagnie de Jèsus, ou notices bibliographiques, Liège, impr. de L. Grandmont-Dondes, 1853.
+
+BARAGGIO, P., NAVA, N., _Elementi di probabilità statistica_, Milano, Hoepli, 1987.
 
 BARTHES, Roland, _L'ancienne rhétorique_, trascrizione di seminario 1964/1965 all'Ecole Pratique des Hautes Etudes, Parigi (prima pubbl. in tr. it. di Paolo Fabbri, _La retorica antica_, Milano 1972; 2° e. "Nuovo Portico" 1985).
 
@@ -388,4 +392,4 @@ YATES, Frances Amelia, _The Art of Memory_, London, Routledge & Kegan Paul, 1966
 
 YATES, Frances Amelia, _The Rosicrucian Enlightenment_, London, Routledge & Kegan Paul, 1972 (tr. it. di Metella Rovero, _L'Illuminismo dei Rosa-Croce_, Torino, Einaudi, 1976, pp.XXX-318).
 
-YATES, Frances Amelia, _The Occult Philosophy in the Elizabethan Age_, London, Routledge & Kegan Paul, 1979, (tr. it. di Santina Mobiglia, _Cabbalae occultismo nell'età elisabettiana_, Torino, Einaudi, 1982, 240 p.). </p>
+YATES, Frances Amelia, _The Occult Philosophy in the Elizabethan Age_, London, Routledge & Kegan Paul, 1979, (tr. it. di Santina Mobiglia, _Cabbalae occultismo nell'età elisabettiana_, Torino, Einaudi, 1982, 240 p.).
