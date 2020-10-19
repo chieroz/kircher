@@ -32,6 +32,9 @@ params:
   highlightClientSide: false
   menushortcutsnewtab: true
   ordersectionsby: weight
+  plausibleAnalytics:
+    domain: "kircher.chierotti.it"
+
 pygmentsCodeFences: true
 pygmentsStyle: monokailight
 theme: ace-documentation
