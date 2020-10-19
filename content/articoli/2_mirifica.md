@@ -150,318 +150,255 @@ Nelle pagine dell'ottavo libro «de Musurgia Mirifica» appare palese una grande
 <div class="d-none">
 
 {{ <div id="fn2">
-La <em>Musurgia Universalis</em> non è l'unica opera d'argomento musicale scritta da Kircher: egli pubblicò anche la _Phonurgia nova sive Conjugium Mechanico-physicum Artis et Naturae Paranympha Phonosophia Concinnatum; qua universa sonorum natura, proprietas, vires, effectuumq prodigiosorum Causae, nova et multiplici experimentorum exhibitione enucleantur; Instrumentorum Acusticorum, Machinarumq ad Naturae prototypon adaptandarum, tum ad sonos ad remotissima spatia propagandos, tum in abditis domorum recessibus per occultioris ingenii machinamenta clam palamve sermocinandi modus et ratio traditur, tum denique in Bellorum tumultibus singularis hujusmodi Organorum Usus, et praxis per novam Phonologiam Describitur_, Campidonae, Per Rudolphum Dreherr, 1673, fol., pp. 229 (tr. ted. di Agatho Curione, Nordlingen, 1684, fol). Si tratta di un'opera che tratta soprattutto problemi di acustica ed in molte parti riproduce alcuni capitoli della _Musurgia_.
-
+    La <em>Musurgia Universalis</em> non è l'unica opera d'argomento musicale scritta da Kircher: egli pubblicò anche la _Phonurgia nova sive Conjugium Mechanico-physicum Artis et Naturae Paranympha Phonosophia Concinnatum; qua universa sonorum natura, proprietas, vires, effectuumq prodigiosorum Causae, nova et multiplici experimentorum exhibitione enucleantur; Instrumentorum Acusticorum, Machinarumq ad Naturae prototypon adaptandarum, tum ad sonos ad remotissima spatia propagandos, tum in abditis domorum recessibus per occultioris ingenii machinamenta clam palamve sermocinandi modus et ratio traditur, tum denique in Bellorum tumultibus singularis hujusmodi Organorum Usus, et praxis per novam Phonologiam Describitur_, Campidonae, Per Rudolphum Dreherr, 1673, fol., pp. 229 (tr. ted. di Agatho Curione, Nordlingen, 1684, fol). Si tratta di un'opera che tratta soprattutto problemi di acustica ed in molte parti riproduce alcuni capitoli della _Musurgia_.
 </div> }}
 
 {{ <div id="fn3">
-Kircher era punto di riferimento per i missionari gesuiti, grazie alla sua fama di orientalista e studioso di linguistica, esperto della mitologia e delle speculazioni religiose dei popoli non cristiani. Si veda Dino Pastine, _La nascita dell'idolatria. L'Oriente religioso di Athanasius Kircher_, Firenze, La Nuova Italia, 1978, pp. 18 e sgg. In merito al vastissimo epistolario kircheriano, che è conservato a Roma presso la Pontificia Università Gregoriana, Mss. Pont. Univ. Greg. 555-568 (I-XIV), si veda il testo di Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller. Ein Beitrag zur Musikanschauung des Barock_, Marburg, Görich & Weiershäuser, 1969, pp. 22-26 e passim.
-
+    Kircher era punto di riferimento per i missionari gesuiti, grazie alla sua fama di orientalista e studioso di linguistica, esperto della mitologia e delle speculazioni religiose dei popoli non cristiani. Si veda Dino Pastine, _La nascita dell'idolatria. L'Oriente religioso di Athanasius Kircher_, Firenze, La Nuova Italia, 1978, pp. 18 e sgg. In merito al vastissimo epistolario kircheriano, che è conservato a Roma presso la Pontificia Università Gregoriana, Mss. Pont. Univ. Greg. 555-568 (I-XIV), si veda il testo di Ulf Scharlau, _Athanasius Kircher (1601-1680) als Musikschriftsteller. Ein Beitrag zur Musikanschauung des Barock_, Marburg, Görich & Weiershäuser, 1969, pp. 22-26 e passim.
 </div> }}
 
 {{ <div id="fn4">
-La fonte primaria per uno studio approfondito della biografia di Athanasius Kircher è costituito dalla autobiografia manoscritta, «Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo»; fu pubblicata unitamente a varie lettere da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu, viri in Mathematicis et variorum Idiomatum Scientiis Celebratissimi, Complectentium Materias Philosophico-Mathematico-Medicas: Exaratae sunt ad nobiles, ervditos atq. Excellentissimos viros D.D. Lucas Schrökios, Seniorem et Juniorem, D. Hieronymum Velschium, Trigam Illustrem Medicorum, D. Ankelium, Theophilum Spizelium, et ad Autorem ipsum. Nunc primo in publicam lucem prodiere accurante A.R.P. Hieronimo Ambrosio Langenmantelio_, Augustae Vindelicorum, Typis Utzschneiderianis, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della Vita, di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della Vita si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295. Le biografie più complete, anche se molto datate, sono: A. Behlau, «Athanasius Kircher, eine Lebensskizze», _Programm des Königlichen Katholischen Gymnasiums zu Heiligenstadt_, Heiligenstadt, 1874, pp. 1-18; Karl Brischar, «Athanasius Kircher, ein Lebensbild», _Katholische Studien_, vol. III, n. 5 (1877); G.J. Rosenkranz, «Aus dem Leben des Jesuiten Athanasius Kircher 1602-1680», _Zeitschrift für vaterländische Geschichte und Altertumskunde_, Verein für Geschichte und Altertumskunde Westfalens, vol. 13, no. 9 (1852), pp. 11-58. Più recente, ma meno accurato, è P. Conor Reilly, S.J., _Athanasius Kircher, Master of a Hundred Arts_, Rome-Wiesbaden, Edizioni del Mondo, 1974. Al momento lo studio più completo circa l'attività musicografica di Kircher, è il libro di Ulf Scharlau, _op. cit._
-
+    La fonte primaria per uno studio approfondito della biografia di Athanasius Kircher è costituito dalla autobiografia manoscritta, «Vita a semetipso conscripta, cum additamentis ex ejus Mundo subterraneo»; fu pubblicata unitamente a varie lettere da Hieronimus Langenmantel nel _Fasciculus epistolarum Adm. R.P. Athanasii Kircheri Soc. Jesu, viri in Mathematicis et variorum Idiomatum Scientiis Celebratissimi, Complectentium Materias Philosophico-Mathematico-Medicas: Exaratae sunt ad nobiles, ervditos atq. Excellentissimos viros D.D. Lucas Schrökios, Seniorem et Juniorem, D. Hieronymum Velschium, Trigam Illustrem Medicorum, D. Ankelium, Theophilum Spizelium, et ad Autorem ipsum. Nunc primo in publicam lucem prodiere accurante A.R.P. Hieronimo Ambrosio Langenmantelio_, Augustae Vindelicorum, Typis Utzschneiderianis, 1684. Si tratta di un testo molto raro. Esiste una traduzione tedesca della Vita, di Nikolaus Seng, _Die Selbstbiographie des P. Athanasius Kircher_, Fulda, 1901. Esemplari manoscritti della Vita si trovano a Vienna, Biblioteca Imperiale, Cat. II 177 e a Monaco di Baviera, Catal. MSS latin. n. 8295. Le biografie più complete, anche se molto datate, sono: A. Behlau, «Athanasius Kircher, eine Lebensskizze», _Programm des Königlichen Katholischen Gymnasiums zu Heiligenstadt_, Heiligenstadt, 1874, pp. 1-18; Karl Brischar, «Athanasius Kircher, ein Lebensbild», _Katholische Studien_, vol. III, n. 5 (1877); G.J. Rosenkranz, «Aus dem Leben des Jesuiten Athanasius Kircher 1602-1680», _Zeitschrift für vaterländische Geschichte und Altertumskunde_, Verein für Geschichte und Altertumskunde Westfalens, vol. 13, no. 9 (1852), pp. 11-58. Più recente, ma meno accurato, è P. Conor Reilly, S.J., _Athanasius Kircher, Master of a Hundred Arts_, Rome-Wiesbaden, Edizioni del Mondo, 1974. Al momento lo studio più completo circa l'attività musicografica di Kircher, è il libro di Ulf Scharlau, _op. cit._
 </div> }}
 
 {{ <div id="fn5">
-Era un facoltoso mecenate, interessato allo studio dei geroglifici, che tra l'altro finanziò la stampa dell'_Harmonie Universelle_ (Paris, 1636; rist. anastatica Paris, Éditions du Centre National de la Recherche Scientifique, 1963) di Marin Mersenne.
-
+    Era un facoltoso mecenate, interessato allo studio dei geroglifici, che tra l'altro finanziò la stampa dell'_Harmonie Universelle_ (Paris, 1636; rist. anastatica Paris, Éditions du Centre National de la Recherche Scientifique, 1963) di Marin Mersenne.
 </div> }}
 
 {{ <div id="fn6">
-Joscelin Godwin in _Athanasius Kircher. A Renaissance Man and the Quest for Lost Knowledge_, London, Thames and Hudson, 1979, p. 11, narra questo avventuroso viaggio: la Germania era pericolosa per i gesuiti: il viaggio doveva passare nell'Italia settentrionale, dopo un primo tratto in nave da Avignone a Marsiglia. Una incredibile serie di naufragi condusse Kircher a Civitavecchia, e per lui fu inevitabile una deviazione sino a Roma. Qui scoprì di essere atteso dal papa.
-
+    Joscelin Godwin in _Athanasius Kircher. A Renaissance Man and the Quest for Lost Knowledge_, London, Thames and Hudson, 1979, p. 11, narra questo avventuroso viaggio: la Germania era pericolosa per i gesuiti: il viaggio doveva passare nell'Italia settentrionale, dopo un primo tratto in nave da Avignone a Marsiglia. Una incredibile serie di naufragi condusse Kircher a Civitavecchia, e per lui fu inevitabile una deviazione sino a Roma. Qui scoprì di essere atteso dal papa.
 </div> }}
 
 {{ <div id="fn7">
-La fama di Kircher come egittologo durò sino alla pubblicazione nel 1824 dell'esatta decifrazione di Champollion, ottenuta grazie alla stele di Rosetta. Sulla figura di Kircher studioso dei geroglifici ed orientalista vedi: Valerio Rivosecchi, _Esotismo in Roma barocca. Studi sul Padre Kircher_, Roma, Bulzoni, 1982, p. 165; Dino Pastine, _op. cit._, p. 325.
-
+    La fama di Kircher come egittologo durò sino alla pubblicazione nel 1824 dell'esatta decifrazione di Champollion, ottenuta grazie alla stele di Rosetta. Sulla figura di Kircher studioso dei geroglifici ed orientalista vedi: Valerio Rivosecchi, _Esotismo in Roma barocca. Studi sul Padre Kircher_, Roma, Bulzoni, 1982, p. 165; Dino Pastine, _op. cit._, p. 325.
 </div> }}
 
 {{ <div id="fn8">
-Una bibliografia completa si trova in Carlos Sommervogel, _Bibliothèque de la Compagnie de Jésus_, Bruxelles, Oscar Schepens, Paris, Alphonse Picard, 1890-1898, vol IV (1898), coll. 1046-1077.
-
+    Una bibliografia completa si trova in Carlos Sommervogel, _Bibliothèque de la Compagnie de Jésus_, Bruxelles, Oscar Schepens, Paris, Alphonse Picard, 1890-1898, vol IV (1898), coll. 1046-1077.
 </div> }}
 
 {{ <div id="fn9">
-Si veda a questo proposito: AA.VV., _Enciclopedismo in Roma barocca. Athanasius Kircher e il Museo del Collegio Romano tra Wunderkammer e museo scientifico_, a cura di Maristella Casciato, Maria Grazia Ianniello, Maria Vitale, Venezia, Marsilio, 1986, 375 p.
-
+    Si veda a questo proposito: AA.VV., _Enciclopedismo in Roma barocca. Athanasius Kircher e il Museo del Collegio Romano tra Wunderkammer e museo scientifico_, a cura di Maristella Casciato, Maria Grazia Ianniello, Maria Vitale, Venezia, Marsilio, 1986, 375 p.
 </div> }}
 
 {{ <div id="fn10">
-Si veda in merito Richard S. Westfall, _The Construction of Modern Science. Mechanism and Mechanics_, New Jork, John Wiley & Sons, 1971 (trad. it. di Davide Panzeri, _La rivoluzione scientifica del XVII secolo_, Bologna, il Mulino, 1984, p. 21 e sgg.
-
+    Si veda in merito Richard S. Westfall, _The Construction of Modern Science. Mechanism and Mechanics_, New Jork, John Wiley & Sons, 1971 (trad. it. di Davide Panzeri, _La rivoluzione scientifica del XVII secolo_, Bologna, il Mulino, 1984, p. 21 e sgg.
 </div> }}
 
 {{ <div id="fn11">
-Venti anni fa, nella rubrica «I libri» della _Nuova Rivista Musicale Italiana_, (5), Gino Stefani, recensendo il volume di Ulf Scharlau _Athanasius Kircher als Musikschriftsteller. Ein Beitrag zur Musikanschauung des Barock_, Marburg, Görich & Weiershäuser, 1969, lodava il lavoro dello studioso tedesco soprattutto per la sua unicità, essendo il primo studio monografico su Kircher. Il recensore formulava anche l'augurio che l'imminente riedizione della _Musurgia Universalis_ a cura dell'editore Olms di Hildesheim sortisse l'effetto di stimolare più profonde esplorazioni nell'opera di Kircher, esplorazioni che si spingessero oltre «l'onesto manuale» di Scharlau. Tale auspicio è però rimasto finora lettera morta.
-
+    Venti anni fa, nella rubrica «I libri» della _Nuova Rivista Musicale Italiana_, (5), Gino Stefani, recensendo il volume di Ulf Scharlau _Athanasius Kircher als Musikschriftsteller. Ein Beitrag zur Musikanschauung des Barock_, Marburg, Görich & Weiershäuser, 1969, lodava il lavoro dello studioso tedesco soprattutto per la sua unicità, essendo il primo studio monografico su Kircher. Il recensore formulava anche l'augurio che l'imminente riedizione della _Musurgia Universalis_ a cura dell'editore Olms di Hildesheim sortisse l'effetto di stimolare più profonde esplorazioni nell'opera di Kircher, esplorazioni che si spingessero oltre «l'onesto manuale» di Scharlau. Tale auspicio è però rimasto finora lettera morta.
 </div> }}
 
 {{ <div id="fn12">
-La scelta del numero dieci non fu casuale: Kircher lo considerava un simbolo della perfezione divina, rifacendosi in ultima istanza ai pitagorici secondo i quali tutto ciò che era divisibile per dieci, risultante dalla somma delle cifre della _tetraktis_ (1+2+3+4) manifestava di essere improntato ad una indistruttibile armonia e compattezza.
-
+    La scelta del numero dieci non fu casuale: Kircher lo considerava un simbolo della perfezione divina, rifacendosi in ultima istanza ai pitagorici secondo i quali tutto ciò che era divisibile per dieci, risultante dalla somma delle cifre della _tetraktis_ (1+2+3+4) manifestava di essere improntato ad una indistruttibile armonia e compattezza.
 </div> }}
 
 {{ <div id="fn13">
-_Musurgia Universalis_, tomo I, p. 213 (anche tomo I, pp. 541-542). Si tratta di un frammento che Kircher dichiarò di aver trovato nella biblioteca del convento di San Salvatore a Messina. L'originale, se mai è esistito, è scomparso e quindi non è possibile dimostrare l'autenticità e l'attendibilità delle trascrizioni. Circa tale questione si possono consultare: A. Rome, «L'origine de la prétendue mélodie de Pindare», _Études Classiques_, I, 1932, pp. 3-11; id., «Pindare ou Kircher», _Études Classiques_, IV, 1932, pp. 337-350; Paul Friedländer, «Pindar oder Kircher», _Hermes_ vol. 70 (1935), pp. 463-471.
-
+    _Musurgia Universalis_, tomo I, p. 213 (anche tomo I, pp. 541-542). Si tratta di un frammento che Kircher dichiarò di aver trovato nella biblioteca del convento di San Salvatore a Messina. L'originale, se mai è esistito, è scomparso e quindi non è possibile dimostrare l'autenticità e l'attendibilità delle trascrizioni. Circa tale questione si possono consultare: A. Rome, «L'origine de la prétendue mélodie de Pindare», _Études Classiques_, I, 1932, pp. 3-11; id., «Pindare ou Kircher», _Études Classiques_, IV, 1932, pp. 337-350; Paul Friedländer, «Pindar oder Kircher», _Hermes_ vol. 70 (1935), pp. 463-471.
 </div> }}
 
 {{ <div id="fn14">
-Si tratta di una compilazione basata sulla letteratura già nota nel Medio Evo. L'universo del discorso è il sistema pitagorico, tuttavia man mano si viene realizzando un ibrido fra scala pitagorica e zarliniana, peraltro mai nominata espressamente.
-
+    Si tratta di una compilazione basata sulla letteratura già nota nel Medio Evo. L'universo del discorso è il sistema pitagorico, tuttavia man mano si viene realizzando un ibrido fra scala pitagorica e zarliniana, peraltro mai nominata espressamente.
 </div> }}
 
 {{ <div id="fn15">
-Kircher trasse il proprio materiale da un trattato di Siverio Picerli, _Specchio secondo di musica, nel quale si vede chiaro il vero e facil modo di comporre di canto figurato e fermo_, Napoli, 1631.
-
+    Kircher trasse il proprio materiale da un trattato di Siverio Picerli, _Specchio secondo di musica, nel quale si vede chiaro il vero e facil modo di comporre di canto figurato e fermo_, Napoli, 1631.
 </div> }}
 
 {{ <div id="fn16">
-Si veda Mariangela Donà, «&#34;Affetti musicali&#34; nel Seicento», _Studi secenteschi_, VIII (1967), pp. 75-94.
-
+    Si veda Mariangela Donà, «&#34;Affetti musicali&#34; nel Seicento», _Studi secenteschi_, VIII (1967), pp. 75-94.
 </div> }}
 
 {{ <div id="fn17">
-Si veda Lorenzo Bianconi, «Il Seicento», vol. IV della _Storia della Musica_ a cura della Società Italiana di Musicologia, Torino, E.D.T. Edizioni di Torino, 1982, pp. 51-58.
-
+    Si veda Lorenzo Bianconi, «Il Seicento», vol. IV della _Storia della Musica_ a cura della Società Italiana di Musicologia, Torino, E.D.T. Edizioni di Torino, 1982, pp. 51-58.
 </div> }}
 
 {{ <div id="fn18">
-Sulla complessa storia di questo tema è sempre molto interessante il testo di Leo Spitzer, _Classical and Christian Ideas of Wordl Harmony_, edited by Anne Grandville Hatcher, Baltimore, John Hopkins, 1963 (tr. it. di Valentina Poggi, _L'armonia del mondo. Storia semantica di un'idea_, Bologna, il Mulino, 1967. Si veda anche il recente studio di Stefano Leoni, _Le armonie del mondo. La trattatistica musicale nel Rinascimento: 1470-1650_, Genova, ECIG, 1988, 218 p.
-
+    Sulla complessa storia di questo tema è sempre molto interessante il testo di Leo Spitzer, _Classical and Christian Ideas of Wordl Harmony_, edited by Anne Grandville Hatcher, Baltimore, John Hopkins, 1963 (tr. it. di Valentina Poggi, _L'armonia del mondo. Storia semantica di un'idea_, Bologna, il Mulino, 1967. Si veda anche il recente studio di Stefano Leoni, _Le armonie del mondo. La trattatistica musicale nel Rinascimento: 1470-1650_, Genova, ECIG, 1988, 218 p.
 </div> }}
 
 {{ <div id="fn19">
-_Musurgia Universalis_, tomo II, pp. 3-27. Kircher fu uno dei più celebri esponenti della tradizione enciclopedistico-combinatoria, niente affatto secondaria nella storia della cultura gesuitica del Seicento. Interessante in merito alla combinatoria kircheriana è l'articolo di Eberhard Knobloch, «Musurgia Universalis: Unknown Combinatorial Studies in the Age of Baroque Absolutism», _History of Science_, XVII, 1979, pp. 258-275 (tr. it. passim «Musurgia Universalis: ignoti studi combinatori nell'epoca dell'Assolutismo barocco», in AA.VV., _La musica nella Rivoluzione Scientifica del Seicento_, a cura di Paolo Gozza, Bologna, il Mulino, 1989, pp. 111-125). Sui rapporti fra Kircher e Leibniz si veda anche Paul Friedländer, «Athanasius Kircher und Leibniz. Ein Beitrage zur Geschichte der Polyhistorie in XVII Jahrhunderts», _Rendiconti, Atti della Pontificia Accademia Romana di Archeologia_, serie III, vol. XIII (a. a. 1937), pp. 229-247. Questa sezione deriva in gran parte da Mersenne, _Harmonie Universelle_, Paris, 1636 (rist. Paris, Éditions du Centre National de la Recherche Scientifique, 1963), dai libri «De la voix» («Traitez de le Voix et des Chants», pp. 1-88), «Des chants» (ibidem, pp. 89-180) e «Des orgues» («Traité des instruments a chordes», pp. 309-412).
-
+    _Musurgia Universalis_, tomo II, pp. 3-27. Kircher fu uno dei più celebri esponenti della tradizione enciclopedistico-combinatoria, niente affatto secondaria nella storia della cultura gesuitica del Seicento. Interessante in merito alla combinatoria kircheriana è l'articolo di Eberhard Knobloch, «Musurgia Universalis: Unknown Combinatorial Studies in the Age of Baroque Absolutism», _History of Science_, XVII, 1979, pp. 258-275 (tr. it. passim «Musurgia Universalis: ignoti studi combinatori nell'epoca dell'Assolutismo barocco», in AA.VV., _La musica nella Rivoluzione Scientifica del Seicento_, a cura di Paolo Gozza, Bologna, il Mulino, 1989, pp. 111-125). Sui rapporti fra Kircher e Leibniz si veda anche Paul Friedländer, «Athanasius Kircher und Leibniz. Ein Beitrage zur Geschichte der Polyhistorie in XVII Jahrhunderts», _Rendiconti, Atti della Pontificia Accademia Romana di Archeologia_, serie III, vol. XIII (a. a. 1937), pp. 229-247. Questa sezione deriva in gran parte da Mersenne, _Harmonie Universelle_, Paris, 1636 (rist. Paris, Éditions du Centre National de la Recherche Scientifique, 1963), dai libri «De la voix» («Traitez de le Voix et des Chants», pp. 1-88), «Des chants» (ibidem, pp. 89-180) e «Des orgues» («Traité des instruments a chordes», pp. 309-412).
 </div> }}
 
 {{ <div id="fn20">
-_Musurgia Universalis_, tomo II, pp. 27-45. Vi sono esposte riflessioni sul rapporto fra il ritmo musicale ed i vari ritmi poetici: Kircher con molta finezza ha criticato coloro che ritenevano che la trasposizione in musica di un qualsiasi piede poetico fosse un mero problema di «traduzione» delle sillabe brevi con note di valore breve e delle sillabe lunghe con note lunghe. Egli aveva più intelligentemente posto la questione nei termini di quella che possiamo definire posizione all'interno dello schema ritmico e accentuativo della battuta: il musicista deve far collimare gli accenti della frase poetica ed i tempi forti della battuta, allacciando inoltre il tutto alla condotta melodica.
-
+    _Musurgia Universalis_, tomo II, pp. 27-45. Vi sono esposte riflessioni sul rapporto fra il ritmo musicale ed i vari ritmi poetici: Kircher con molta finezza ha criticato coloro che ritenevano che la trasposizione in musica di un qualsiasi piede poetico fosse un mero problema di «traduzione» delle sillabe brevi con note di valore breve e delle sillabe lunghe con note lunghe. Egli aveva più intelligentemente posto la questione nei termini di quella che possiamo definire posizione all'interno dello schema ritmico e accentuativo della battuta: il musicista deve far collimare gli accenti della frase poetica ed i tempi forti della battuta, allacciando inoltre il tutto alla condotta melodica.
 </div> }}
 
 {{ <div id="fn21">
-_Musurgia Universalis_, tomo II, pp. 46-184.
-
+    _Musurgia Universalis_, tomo II, pp. 46-184.
 </div> }}
 
 {{ <div id="fn22">
-_Musurgia Universalis_, tomo II, pp. 54-102, 102-141, 141-184.
-
+    _Musurgia Universalis_, tomo II, pp. 54-102, 102-141, 141-184.
 </div> }}
 
 {{ <div id="fn23">
-_Musurgia Universalis_, tomo I, p. XXV.
-
+    _Musurgia Universalis_, tomo I, p. XXV.
 </div> }}
 
 {{ <div id="fn24">
-Si veda la nota 3.
-
+    Si veda la nota 3.
 </div> }}
 
 {{ <div id="fn25">
-La lettera si trova in: Jacob Burckhard, _Historiae Bibliothecae Augustae, quae Wolfenbutteli est_, Lipsiae, Typis Breitkopfianis, 1746; Pars II Caput III, p. 128.
-
+    La lettera si trova in: Jacob Burckhard, _Historiae Bibliothecae Augustae, quae Wolfenbutteli est_, Lipsiae, Typis Breitkopfianis, 1746; Pars II Caput III, p. 128.
 </div> }}
 
 {{ <div id="fn26">
-_Musurgia Universalis_, tomo II, pp. 185-199.
-
+    _Musurgia Universalis_, tomo II, pp. 185-199.
 </div> }}
 
 {{ <div id="fn27">
-Non si tratta certo di una macchina per comporre come taluni hanno ritenuto di affermare, interpretando arditamente le affermazioni di Kircher. Si veda ad esempio Fred K. Prieberg nel suo _Musica ex machina. Uber das Verhältnis von Musik und Technik_, Berlin-Frankfurt-Wien, Verlag Ullstein, 1960 (tr. it. di Paola Tonini, _Musica ex machina_, Torino, Einaudi, 1963, p. 112): «Nel suo libro _Musurgia Universalis_, [...] stampato a Roma nel 1660 (sic!), il padre gesuita Athanasius Kircher [...] descrive un dispositivo meccanico per la composizione di musica». Anche George J. Buelow nella voce «Kircher» del _Grove's Dictionary of Music and Musicians_, sostiene che l'arca musarithmica fosse una «composing machine that made automatic composition possible». In realtà l'arca musarithmica è molto più semplicemente una cassetta di legno che deve contenere i vari pinaces trascritti su tavolette di legno o di carta spessa: «Arcam Musarithmicam vocamus receptaculum columnarum Musarithmicarum; Columnas vero Musarithmicas vocamus a Musarithmis pinacum in ligneis aut chartaceis virgis seorsim descriptas» (_Musurgia Universalis_, tomo II, p. 185). L'unico esemplare ancora esistente di arca è conservato presso la Herzog August Bibliothek a Wolfenbüttel (Sign.: Cod. Guelf. 90 Aug 8°).
-
+    Non si tratta certo di una macchina per comporre come taluni hanno ritenuto di affermare, interpretando arditamente le affermazioni di Kircher. Si veda ad esempio Fred K. Prieberg nel suo _Musica ex machina. Uber das Verhältnis von Musik und Technik_, Berlin-Frankfurt-Wien, Verlag Ullstein, 1960 (tr. it. di Paola Tonini, _Musica ex machina_, Torino, Einaudi, 1963, p. 112): «Nel suo libro _Musurgia Universalis_, [...] stampato a Roma nel 1660 (sic!), il padre gesuita Athanasius Kircher [...] descrive un dispositivo meccanico per la composizione di musica». Anche George J. Buelow nella voce «Kircher» del _Grove's Dictionary of Music and Musicians_, sostiene che l'arca musarithmica fosse una «composing machine that made automatic composition possible». In realtà l'arca musarithmica è molto più semplicemente una cassetta di legno che deve contenere i vari pinaces trascritti su tavolette di legno o di carta spessa: «Arcam Musarithmicam vocamus receptaculum columnarum Musarithmicarum; Columnas vero Musarithmicas vocamus a Musarithmis pinacum in ligneis aut chartaceis virgis seorsim descriptas» (_Musurgia Universalis_, tomo II, p. 185). L'unico esemplare ancora esistente di arca è conservato presso la Herzog August Bibliothek a Wolfenbüttel (Sign.: Cod. Guelf. 90 Aug 8°).
 </div> }}
 
 {{ <div id="fn28">
-_Musurgia Universalis_, tomo II, pp. 190-193 e pp. 193-199.
-
+    _Musurgia Universalis_, tomo II, pp. 190-193 e pp. 193-199.
 </div> }}
 
 {{ <div id="fn29">
-«Certe ad arcanum hoc publicandum multum potuere, Patrum nostrorum in remotissimas terrarum Indias commigrantium vota & efficax deprecatio; Cum enim barbarorum hominum attractio in musici execitiis laudumque diuinarum frequentatione consistat, neque semper libri impressi aut compositores adsint, maxime hanc Musurgiam iis usui futuram credebant, cum hac non desideratas tantum cantilenas, in latina lingua, sed & quacunque proposita lingua [...] sint effecturi», _Musurgia Universalis_, tomo II, p. 2.
-
+    «Certe ad arcanum hoc publicandum multum potuere, Patrum nostrorum in remotissimas terrarum Indias commigrantium vota & efficax deprecatio; Cum enim barbarorum hominum attractio in musici execitiis laudumque diuinarum frequentatione consistat, neque semper libri impressi aut compositores adsint, maxime hanc Musurgiam iis usui futuram credebant, cum hac non desideratas tantum cantilenas, in latina lingua, sed & quacunque proposita lingua [...] sint effecturi», _Musurgia Universalis_, tomo II, p. 2.
 </div> }}
 
 {{ <div id="fn30">
-Per quanto il fenomeno del dilettantismo compaia in epoca decisamente successiva, esistono precise testimonianze, lettere di appassionati adepti della _musurgia mirifica_, in merito ad una nutrita fascia di profani e dilettanti che sfruttarono con gioia il metodo compositivo. Si vedano le lettere citate da Scharlau, _op. cit._, pp. 351-353.
-
+    Per quanto il fenomeno del dilettantismo compaia in epoca decisamente successiva, esistono precise testimonianze, lettere di appassionati adepti della _musurgia mirifica_, in merito ad una nutrita fascia di profani e dilettanti che sfruttarono con gioia il metodo compositivo. Si vedano le lettere citate da Scharlau, _op. cit._, pp. 351-353.
 </div> }}
 
 {{ <div id="fn31">
-Ulf Scharlau, _op. cit._, pp. 351-353.
-
+    Ulf Scharlau, _op. cit._, pp. 351-353.
 </div> }}
 
 {{ <div id="fn32">
-_Musurgia Universalis_, tomo II, pp. 1-199.
-
+    _Musurgia Universalis_, tomo II, pp. 1-199.
 </div> }}
 
 {{ <div id="fn33">
-«[...] principia totius Musurgicae combinationis artis analyticae subsidio aggressus, praestantiores Musurgisque magis necessarias harmonicarum metatheses tabulas [le tavole con gli accordi cifrati] magno sane labore redegi ea arcani artificii dispositione», _Musurgia Universalis_, tomo II, p. 2.
-
+    «[...] principia totius Musurgicae combinationis artis analyticae subsidio aggressus, praestantiores Musurgisque magis necessarias harmonicarum metatheses tabulas [le tavole con gli accordi cifrati] magno sane labore redegi ea arcani artificii dispositione», _Musurgia Universalis_, tomo II, p. 2.
 </div> }}
 
 {{ <div id="fn34">
-Kircher utilizzò per questo sistema di cifratura il termine «numerus harmonicus».
-
+    Kircher utilizzò per questo sistema di cifratura il termine «numerus harmonicus».
 </div> }}
 
 {{ <div id="fn35">
-Negli intendimenti di Kircher tali sequenze di accordi avrebbero dovuto soddisfare le esigenze che egli stesso aveva sottolineate nella sezione «Musurgia Poetica». Si veda la nota 20.
-
+    Negli intendimenti di Kircher tali sequenze di accordi avrebbero dovuto soddisfare le esigenze che egli stesso aveva sottolineate nella sezione «Musurgia Poetica». Si veda la nota 20.
 </div> }}
 
 {{ <div id="fn36">
-I _pinaces_ forniti da Kircher sono in numero di undici per il _contrapunctus simplex_ e di sei per il _contrapunctus floridus_.
-
+    I _pinaces_ forniti da Kircher sono in numero di undici per il _contrapunctus simplex_ e di sei per il _contrapunctus floridus_.
 </div> }}
 
 {{ <div id="fn37">
-Per indicare tempi binari e ternari Kircher utilizza (creando non poca confusione) i termini desueti del mensuralismo, definendo i tempi _perfecti_ o _imperfecti_: in realtà non esiste in tutta la musurgia mirifica un solo passaggio in _tempus perfectus_ (vale a dire la _brevis_ non vale mai tre _semibrevis_). Ironia della sorte, egli stesso (_Musurgia_ _Universalis_, tomo I, p. 680) aveva criticato severamente quegli autori che erano incorsi nel medesimo errore.
-
+    Per indicare tempi binari e ternari Kircher utilizza (creando non poca confusione) i termini desueti del mensuralismo, definendo i tempi _perfecti_ o _imperfecti_: in realtà non esiste in tutta la musurgia mirifica un solo passaggio in _tempus perfectus_ (vale a dire la _brevis_ non vale mai tre _semibrevis_). Ironia della sorte, egli stesso (_Musurgia_ _Universalis_, tomo I, p. 680) aveva criticato severamente quegli autori che erano incorsi nel medesimo errore.
 </div> }}
 
 {{ <div id="fn38">
-_Musurgia Universalis_, tomo II, p. 53.
-
+    _Musurgia Universalis_, tomo II, p. 53.
 </div> }}
 
 {{ <div id="fn39">
-L'esempio è tratto dal «Pinax IV. Iambica Euripidaea penultima longa», _Musurgia Universalis_, tomo II, p. 83.
-
+    L'esempio è tratto dal «Pinax IV. Iambica Euripidaea penultima longa», _Musurgia Universalis_, tomo II, p. 83.
 </div> }}
 
 {{ <div id="fn40">
-_Musurgia Universalis_, tomo II, p. 48.
-
+    _Musurgia Universalis_, tomo II, p. 48.
 </div> }}
 
 {{ <div id="fn41">
-_Musurgia Universalis_, tomo II, p. 57.
-
+    _Musurgia Universalis_, tomo II, p. 57.
 </div> }}
 
 {{ <div id="fn42">
-Purtroppo la mensa tonographica riserva allo studioso alcune complicazioni. Se si considerano infatti le colonne di cifre, si vede come il _Dorius_ compaia non una ma due volte, come primo tono impostato sul Re (_signatio dura_) e come ottavo tono impostato sul Do (stessa _signatio_); di conseguenza il tono ottavo ha due versioni, una come _Hypomixolydius_ con _signatio mollis_ (impostato anch'esso sul Do) ed una appunto come _Dorius_, con la stessa estensione dell'_Hypomixolydius_ ma con _signatio dura_, quindi col Si naturale. Ci viene in soccorso un discepolo di Kircher molto più diligente e preciso: il già nominato Caspar Schott, che spesso nelle proprie opere ha emendato e spiegato le molte pagine errate, lacunose o farraginose del suo tanto più illustre maestro. Il secondo tomo, «Magia Acustica», della sua _Magia Universalis naturae et artis sive Recondita Naturalium et Artificialium rerum Scientia, cujus Ope per variam Applicationem activorum cum passivis, admirandorum effectuum Spectacula, abditarumque inventionum Miracula ad varios humanae vitae usus eruuntur. Opus qvadripartitum_, Herbipoli, 1657 (I e II tomo), 1658 (II tomo), 1659 (IV tomo) dipende in larghissima misura da Kircher: qui Schott ci fornisce una versione corretta della mensa tonographica alle pp. 412-413. Lo stesso Schott (p 391) aveva notato come «nonnulli errores irrepserunt».
-
+    Purtroppo la mensa tonographica riserva allo studioso alcune complicazioni. Se si considerano infatti le colonne di cifre, si vede come il _Dorius_ compaia non una ma due volte, come primo tono impostato sul Re (_signatio dura_) e come ottavo tono impostato sul Do (stessa _signatio_); di conseguenza il tono ottavo ha due versioni, una come _Hypomixolydius_ con _signatio mollis_ (impostato anch'esso sul Do) ed una appunto come _Dorius_, con la stessa estensione dell'_Hypomixolydius_ ma con _signatio dura_, quindi col Si naturale. Ci viene in soccorso un discepolo di Kircher molto più diligente e preciso: il già nominato Caspar Schott, che spesso nelle proprie opere ha emendato e spiegato le molte pagine errate, lacunose o farraginose del suo tanto più illustre maestro. Il secondo tomo, «Magia Acustica», della sua _Magia Universalis naturae et artis sive Recondita Naturalium et Artificialium rerum Scientia, cujus Ope per variam Applicationem activorum cum passivis, admirandorum effectuum Spectacula, abditarumque inventionum Miracula ad varios humanae vitae usus eruuntur. Opus qvadripartitum_, Herbipoli, 1657 (I e II tomo), 1658 (II tomo), 1659 (IV tomo) dipende in larghissima misura da Kircher: qui Schott ci fornisce una versione corretta della mensa tonographica alle pp. 412-413. Lo stesso Schott (p 391) aveva notato come «nonnulli errores irrepserunt».
 </div> }}
 
 {{ <div id="fn43">
-_Musurgia Universalis_, tomo II, p. 50.
-
+    _Musurgia Universalis_, tomo II, p. 50.
 </div> }}
 
 {{ <div id="fn44">
-Bisogna sottolineare che si riscontrano alcune discrepanze nell'attribuzione dei nomi. Appare comunque chiaro che per Kircher una tale terminologia aveva un sapore di arcaismo.
-
+    Bisogna sottolineare che si riscontrano alcune discrepanze nell'attribuzione dei nomi. Appare comunque chiaro che per Kircher una tale terminologia aveva un sapore di arcaismo.
 </div> }}
 
 {{ <div id="fn45">
-Come ha sottolineato saggiamente Scharlau (_op. cit._, p. 178), Kircher non mostra di essere consapevole del proprio operato, mescolando indiscriminatamente le sue conoscenze della pratica musicale corrente a nozioni teoriche ereditate dalla tradizione. Solo tre scale: _Hypophrygius_, _Lydius_, _Hypomixolydius_, non sono riconducibili ad alcuna tipologia accettabile.
-
+    Come ha sottolineato saggiamente Scharlau (_op. cit._, p. 178), Kircher non mostra di essere consapevole del proprio operato, mescolando indiscriminatamente le sue conoscenze della pratica musicale corrente a nozioni teoriche ereditate dalla tradizione. Solo tre scale: _Hypophrygius_, _Lydius_, _Hypomixolydius_, non sono riconducibili ad alcuna tipologia accettabile.
 </div> }}
 
 {{ <div id="fn46">
-_Musurgia Universalis_, tomo II, p. 54.
-
+    _Musurgia Universalis_, tomo II, p. 54.
 </div> }}
 
 {{ <div id="fn47">
-Kircher adotta per il suo esempio un semplice tempo binario alla breve, in _proportio dupla_.
-
+    Kircher adotta per il suo esempio un semplice tempo binario alla breve, in _proportio dupla_.
 </div> }}
 
 {{ <div id="fn48">
-In questo modo quasi paradossalmente, le tavole per il _contrapunctus floridus_ consentono una minore libertà rispetto a quelle per il _contrapunctus simplex_.
-
+    In questo modo quasi paradossalmente, le tavole per il _contrapunctus floridus_ consentono una minore libertà rispetto a quelle per il _contrapunctus simplex_.
 </div> }}
 
 {{ <div id="fn49">
-I _musarithmi_ sono 436 in tutto per il _contrapunctus_ _simplex_ e 230 per il _contrapuntus floridus_. Se si considera che (per fare un esempio) il numero delle combinazioni delle ventun lettere dell'alfabeto italiano è di oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi.
-
+    I _musarithmi_ sono 436 in tutto per il _contrapunctus_ _simplex_ e 230 per il _contrapuntus floridus_. Se si considera che (per fare un esempio) il numero delle combinazioni delle ventun lettere dell'alfabeto italiano è di oltre cinquantun milioni di milioni di milioni, si può capire quanto incommensurabile sia il numero di combinazioni ottenibili con queste poche centinaia di accordi.
 </div> }}
 
 {{ <div id="fn50">
-Non esistono regole in questo senso: il compositore (che per definizione è ignaro delle regole musicali) non è avvertito della necessità di far sì che (ad esempio) nel collegare un _musarithmus_ all'altro deve far in modo che eventuali sensibili salgano alla tonica risolvendo l'accordo.
-
+    Non esistono regole in questo senso: il compositore (che per definizione è ignaro delle regole musicali) non è avvertito della necessità di far sì che (ad esempio) nel collegare un _musarithmus_ all'altro deve far in modo che eventuali sensibili salgano alla tonica risolvendo l'accordo.
 </div> }}
 
 {{ <div id="fn51">
-In questo contesto Kircher descrive l'uso di una scala minore (armonica): il nostro autore illustra con proprietà i dettagli tecnici del nascente linguaggio tonale ed espone con cura l'uso pratico delle alterazioni che in alcune scale bemollizzano il sesto grado e diesizzano il settimo grado, ma glissa totalmente circa le indubitabili (allora come oggi) implicazioni di tale procedimento: la consapevolezza della dualità maggiore/minore è qualcosa che esula totalmente dalla _musurgia mirifica_ e dall'intera _Musurgia Universalis_.
-
+    In questo contesto Kircher descrive l'uso di una scala minore (armonica): il nostro autore illustra con proprietà i dettagli tecnici del nascente linguaggio tonale ed espone con cura l'uso pratico delle alterazioni che in alcune scale bemollizzano il sesto grado e diesizzano il settimo grado, ma glissa totalmente circa le indubitabili (allora come oggi) implicazioni di tale procedimento: la consapevolezza della dualità maggiore/minore è qualcosa che esula totalmente dalla _musurgia mirifica_ e dall'intera _Musurgia Universalis_.
 </div> }}
 
 {{ <div id="fn52">
-_Musurgia Universalis_, tomo II, p. 58.
-
+    _Musurgia Universalis_, tomo II, p. 58.
 </div> }}
 
 {{ <div id="fn53">
-Ad esempio il verso «Veni Creator Spiritus» può essere diviso in almeno sei modi, individuando in esso le voces polysyllabae che lo costituiscono: 1) Veni/Creator/Spiritus (2+3+3); 2) Veni/Creator Spiritus (2+6); 3) Veni Creator/Spiritus (5+3); 4) Veni/Cre/ator/ Spiritus (3+2+3); 5) Veni Cre/ator Spiritus (3+5); 6) Veni/Creator Spi/ritus (2+4+2). Una volta individuate delle unità componenti sarà sufficiente valutare, secondo le regole della prosodia, la quantità della penultima sillaba di ciascun segmento per decidere a quale tabella si dovrà fare riferimento e poi, una volta scelto fra i musarithmi quello relativo al numero di sillabe costituenti ciascuna unità, il procedimento di trascrizione non differisce in nulla rispetto alla tecnica esposta in precedenza.
-
+    Ad esempio il verso «Veni Creator Spiritus» può essere diviso in almeno sei modi, individuando in esso le voces polysyllabae che lo costituiscono: 1) Veni/Creator/Spiritus (2+3+3); 2) Veni/Creator Spiritus (2+6); 3) Veni Creator/Spiritus (5+3); 4) Veni/Cre/ator/ Spiritus (3+2+3); 5) Veni Cre/ator Spiritus (3+5); 6) Veni/Creator Spi/ritus (2+4+2). Una volta individuate delle unità componenti sarà sufficiente valutare, secondo le regole della prosodia, la quantità della penultima sillaba di ciascun segmento per decidere a quale tabella si dovrà fare riferimento e poi, una volta scelto fra i musarithmi quello relativo al numero di sillabe costituenti ciascuna unità, il procedimento di trascrizione non differisce in nulla rispetto alla tecnica esposta in precedenza.
 </div> }}
 
 {{ <div id="fn54">
-«Res in infinitum quasi variabilis est» (_Musurgia Universalis_, tomo II, p. 58); «Certum est in harum columnarum [quelle relative al procedimento per distincta membra] transpositione variaque applicatione multo maiorem combinationum varietatem, quam in precedente occurrere»; «Mutationes harum tantae sunt ut humano ingenio comprehendi minime valeant» (_Musurgia Universalis_, tomo II, p. 59).
-
+    «Res in infinitum quasi variabilis est» (_Musurgia Universalis_, tomo II, p. 58); «Certum est in harum columnarum [quelle relative al procedimento per distincta membra] transpositione variaque applicatione multo maiorem combinationum varietatem, quam in precedente occurrere»; «Mutationes harum tantae sunt ut humano ingenio comprehendi minime valeant» (_Musurgia Universalis_, tomo II, p. 59).
 </div> }}
 
 {{ <div id="fn55">
-Gino Stefani, _Musica barocca. Poetica ed ideologia_, Milano, Bompiani, 1974, p. 114.
-
+    Gino Stefani, _Musica barocca. Poetica ed ideologia_, Milano, Bompiani, 1974, p. 114.
 </div> }}
 
 {{ <div id="fn56">
-Ulf Scharlau, _op. cit._, p. 92.
-
+    Ulf Scharlau, _op. cit._, p. 92.
 </div> }}
 
 {{ <div id="fn57">
-_Musurgia Universalis_, tomo II, p. 142.
-
+    _Musurgia Universalis_, tomo II, p. 142.
 </div> }}
 
 {{ <div id="fn58">
-_Musurgia Universalis_, tomo II, p. 144-145.
-
+    _Musurgia Universalis_, tomo II, p. 144-145.
 </div> }}
 
 {{ <div id="fn59">
-Kircher afferma di assimilare la figura al tropo: «Nos hic pro eadem re sumimus tropos & figuras» (_Musurgia_ _Universalis_, tomo II, p. 144).
-
+    Kircher afferma di assimilare la figura al tropo: «Nos hic pro eadem re sumimus tropos & figuras» (_Musurgia_ _Universalis_, tomo II, p. 144).
 </div> }}
 
 {{ <div id="fn60">
-_ibidem_.
-
+    _ibidem_.
 </div> }}
 
 {{ <div id="fn61">
-Raimondo Lullo (circa 1232-1316) elaborò una «ars inveniendi veritatem» che avrebbe dovuto permettere di formulare affermazioni vere con un processo razionale per mezzo di diagrammi combinatori. Partendo dalla teoria degli elementi (secondo la quale ogni cosa nella natura era composta dal graduato combinarsi di quattro elementi), fondò la sua ars attribuendo importanza ai nomi o attributi del divino, che egli chiamò «dignità» e rappresentò con lettere dell'alfabeto disposte su cerchi concentrici rotanti; la combinazione fra la sfera degli elementi (ABCD) e quella delle dignità (BCDEFGHIK) avrebbe permesso di formulare in modo sintetico ogni possibile riflessione.
-
+    Raimondo Lullo (circa 1232-1316) elaborò una «ars inveniendi veritatem» che avrebbe dovuto permettere di formulare affermazioni vere con un processo razionale per mezzo di diagrammi combinatori. Partendo dalla teoria degli elementi (secondo la quale ogni cosa nella natura era composta dal graduato combinarsi di quattro elementi), fondò la sua ars attribuendo importanza ai nomi o attributi del divino, che egli chiamò «dignità» e rappresentò con lettere dell'alfabeto disposte su cerchi concentrici rotanti; la combinazione fra la sfera degli elementi (ABCD) e quella delle dignità (BCDEFGHIK) avrebbe permesso di formulare in modo sintetico ogni possibile riflessione.
 </div> }}
 
 {{ <div id="fn62">
-Si veda Paolo Rossi, _Clavis Universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna, il Mulino, 1983 (1° ed. Milano-Napoli, Ricciardi, 1960), pp. 179-200.
-
+    Si veda Paolo Rossi, _Clavis Universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna, il Mulino, 1983 (1° ed. Milano-Napoli, Ricciardi, 1960), pp. 179-200.
 </div> }}
 
 {{ <div id="fn63">
-Si veda in merito Roland Barthes, _La retorica antica_, Milano, Bompiani, 1972, tr. it. di Paolo Fabbri. Si vedano anche le pagine dedicate alla formazione del musicista barocco e sulla funzione dell'_ars dicendi_ in Alberto Basso, _Frau musika. La vita e le opere di J.S. Bach_, Torino, E.D.T., 1979, vol. I, pp. 165-167.
-
+    Si veda in merito Roland Barthes, _La retorica antica_, Milano, Bompiani, 1972, tr. it. di Paolo Fabbri. Si vedano anche le pagine dedicate alla formazione del musicista barocco e sulla funzione dell'_ars dicendi_ in Alberto Basso, _Frau musika. La vita e le opere di J.S. Bach_, Torino, E.D.T., 1979, vol. I, pp. 165-167.
 </div> }}
 
 {{ <div id="fn64">
-Atteggiamento facilmente intuibile in tutto l'ottavo libro, spesso inframmezzato da espressioni come «Quis non videt ...»; «Omnes videre possunt ...» che tagliano corto ogni questione.
-
+    Atteggiamento facilmente intuibile in tutto l'ottavo libro, spesso inframmezzato da espressioni come «Quis non videt ...»; «Omnes videre possunt ...» che tagliano corto ogni questione.
 </div> }}
 
 </div>
