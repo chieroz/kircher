@@ -81,17 +81,19 @@ Nelle mani di Kircher e nel contesto della _Musurgia Universalis_, l'_ars combin
 <!-- NOTES -->
 
 <div class="d-none">
-<div id="fn1">
-    Si veda Paolo Rossi, _Clavis Universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna, il Mulino 1983 (1a ed. Milano-Napoli, Ricciardi, 1960), pp. 179-200.
-</div>
 
-<div id="fn2">
+{{ <div id="fn1">
+    Si veda Paolo Rossi, _Clavis Universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna, il Mulino 1983 (1a ed. Milano-Napoli, Ricciardi, 1960), pp. 179-200.
+</div> }}
+
+{{ <div id="fn2">
     Eberhard Knobloch, "Musurgia Universalis: Unknown Combinatorial Studies in the Age of Baroque Absolutism", in _History of Science_, XXXVIII (1979), pp.258-275.
-</div>
+</div> }}
 
 {{ <div id="fn3">
     Paolo Rossi, _Clavis Universalis_, op. cit., pp. 211-219.
 </div> }}
+
 {{ <div id="fn4">
     Vedi Cesare Vasoli, "Considerazioni sull'_Ars Magna Sciendi_", in AA.VV., _Enciclopedismo in Roma barocca. Athanasius Kircher e il Museo del Collegio Romano tra Wunderkammer e museo scientifico_, a cura di Maristella Casciato, Maria Grazia Ianniello, Maria Vitale, Venezia, Marsilio, 1986, pp. 62-77.
 </div> }}
