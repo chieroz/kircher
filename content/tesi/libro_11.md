@@ -46,7 +46,7 @@ Si tratta di un metodo che forse non si potrebbe neppure definire "compositivo";
 
 ## 11.3 Sceptrologia Musarum
 
-<p>La "Sceptrologia Musarum" (MU B 193-199) è un metodo che, al pari del precedente, si basa sull'uso di regoli di legno chiamati "sceptra", preparati in nove gruppi. Essi sono indicati con i nomi delle nove Muse e si distinguono come i _pinaces_ per il numero di sillabe che sono suscettibili di musicare.
+La "Sceptrologia Musarum" (MU B 193-199) è un metodo che, al pari del precedente, si basa sull'uso di regoli di legno chiamati "sceptra", preparati in nove gruppi. Essi sono indicati con i nomi delle nove Muse e si distinguono come i _pinaces_ per il numero di sillabe che sono suscettibili di musicare.
 
 Ecco un elenco:
 
@@ -173,3 +173,4 @@ Con queste pagine giunge al termine l'ottavo libro della _Musurgia Universalis_:
     "Haec Plectrologia [sinonimo di sceptrologia] vero &tsi non ita universalis sit ut praecedens, hoc tamen commoditatis habet, quod sit compendiosa, facilis, & sine ulla applicatione columnae toni ad columna clavium praevia, statim cuiuscunque vocis processu" in pentagrammis suis exhibeat" (MU B 199).
 </div> }}
 
+</div>
