@@ -43,7 +43,7 @@ Purtroppo la "Mensa Tonographica" riserva alcune complicazioni dal carattere non
 
 Si può affermare che Kircher nella "Mensa Tonographica", pur mantenendo l'antica terminologia e, come sostiene non a torto Scharlau, <a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="182">[182]</a> dando l'impressione di non essere particolarmente consapevole del proprio operato, si è spinto ormai sulla strada verso le moderne tonalità: il suo sistema di scale mostra una decisa tendenza alla bipolarità fra scale maggiori e scale minori armoniche e si differenzia da quanto egli stesso ha esposto nelle sezioni teoriche del terzo e del quinto libro, ancora legate alla modalità. Nel capitolo "De Modernis Modis" (MU A 154-158) Kircher aveva infatti recuperato esattamente l'ordine adottato da Glareano nel Dodecachordon <a class="footnote-link" href="#" data-toggle="modal" data-target="#fnModal" data-footnote="183">[183]</a> per allargare a dodici il numero dei modi ecclesiastici, sei autentici e sei plagali:
 
-<table class="table">
+<table class="table table-sm">
 <tr>
         <td>Re</td>
         <td>Mi</td>
