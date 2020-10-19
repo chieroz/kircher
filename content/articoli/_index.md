@@ -7,6 +7,6 @@ weight: 1
 
 Sono passati molti anni dalla pubblicazione di questi articoli, ma se non altro come valore documentale mi sembra sia comunque possibile una pubblicazione.
 
-Da anni non seguo la ricerca su Kircher, ma mi pare che la curiosità su di lui sia grandemente scemata.
+Da molto tempo ormai non seguo la ricerca su Kircher, ma mi pare che la curiosità su di lui sia grandemente scemata.
 
-Forse qualcuno imbattendosi in questi documenti forse un poco ingenui verrò tentato di sollevare nuovamente il velo.
+Spero che qualcuno, imbattendosi in questi documenti forse un poco ingenui, venga tentato di sollevare nuovamente il velo.
