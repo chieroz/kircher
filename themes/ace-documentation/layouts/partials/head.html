@@ -1,7 +1,7 @@
 <head>
 
     <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="canonical" href="{{ .Permalink }}">
 
@@ -21,7 +21,8 @@
 
     <!-- Only include the tracking when using `hugo` or adding `--environment production` -->
     {{ if eq hugo.Environment "production" }}
-        {{ template "_internal/google_analytics_async.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
+    <script async defer data-domain="kircher.chierotti.it" src="https://plausible.io/js/plausible.js"></script>
     {{ end }}
 
 </head>
