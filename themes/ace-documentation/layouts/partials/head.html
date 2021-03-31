@@ -21,7 +21,15 @@
 
     <!-- Only include the tracking when using `hugo` or adding `--environment production` -->
     {{ if eq hugo.Environment "production" }}
-    {{ template "_internal/google_analytics_async.html" . }}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89722916-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-89722916-2');
+    </script>
     <script async defer data-domain="kircher.chierotti.it" src="https://plausible.io/js/plausible.js"></script>
     {{ end }}
 
