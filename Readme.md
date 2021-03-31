@@ -7,3 +7,5 @@ Questo mini sito raccoglie tutti i materiali dei miei studi su Athanasius Kirche
 Mi sembra più elegante tenerli separati e inoltre volevo imparare a utilizzare Hugo, generatore di siti statici.
 
 Carlo Mario Chierotti
+
+Ultimo aggiornamento 2021-03-31
