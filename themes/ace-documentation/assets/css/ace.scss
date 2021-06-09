@@ -15,6 +15,8 @@ $danger:        #dc3545;
 $light:         #f8f9fa;
 $dark:          #343a40;
 
+$font-size-base: 0.9rem !default; // Assumes the browser default, typically `16px`
+
 @import "bootstrap/bootstrap";
 
 /* Typography styling */
@@ -24,7 +26,7 @@ $dark:          #343a40;
 
 .main > h2{
     padding-top: 4rem;
-    margin-top:-1rem;   
+    margin-top:-1rem;
 }
 
 .main > h3, .main > h4, .main > h5, .main > h6{
