@@ -17,7 +17,7 @@ Comporre senza conoscere la musica: Athanasius Kircher e la _musica mirifica_&#3
 
 <hr>
 
-Breve sunto della vita di Athanasius Kircher, tratto da un capitolo della mia tesi di laurea.</a> <a href="{{ path('kircher_vita') }}"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
+Breve sunto della vita di Athanasius Kircher, tratto da un capitolo della mia tesi di laurea.</a> <a href="/vita"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
 
 <hr>
 
