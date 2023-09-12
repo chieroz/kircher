@@ -3,7 +3,7 @@ title: "Athanasius Kircher, 1601-1680"
 date: 2020-09-21T14:26:18+02:00
 ---
 
-Seguendo i link presenti su questa pagina potete leggere due articoli dedicati alla _musurgia mirifica_ di Athanasius Kircher, la bibliografia completa delle opere di Kircher e la sua biografia.
+Seguendo i link presenti su questa pagina potete leggere due articoli dedicati alla _musurgia mirifica_ di Athanasius Kircher, la bibliografia completa delle opere di Kircher e una sua breve biografia.
 
 La mia tesi di laurea <a href="/tesi/"><i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></a>
 
